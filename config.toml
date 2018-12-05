@@ -126,7 +126,7 @@ DefaultContentLanguage = "en"
     # About 2 Section
     [Languages.en.params.aboutSm]
         enable  = true
-        title   = "콘텐츠 마케팅 에이전시 밸러스트아이앤씨입니다"
+        title   = "콘텐츠 마케팅 에이전시 밸러스트"
         description = "우리는 공감을 바탕으로 체계적, 분석적인 리서치를 통해 고객을 이해합니다. 이렇게 이해한 내용으로 전략을 세웁니다. 전략에 근거하여 뛰어난 콘텐츠를 만들고 배포하여, 데이터를 기반으로 분석하고 최적화합니다. 우리는 클라이언트의 비즈니스 성장에 집중합니다. 우리는 밸러스트입니다."
 
     # Blog Section On Homepage
@@ -180,7 +180,7 @@ DefaultContentLanguage = "en"
         url     = "portfolio"
         weight  = 4
     [[menu.nav]]
-        name    = "blog"
+        name    = "insights"
         url     = "blog"
         weight  = 5
     [[menu.nav]]
