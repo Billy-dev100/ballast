@@ -180,8 +180,8 @@ DefaultContentLanguage = "en"
         url     = "portfolio"
         weight  = 4
     [[menu.nav]]
-        name    = "insights"
-        url     = "insights"
+        name    = "blog"
+        url     = "blog"
         weight  = 5
     [[menu.nav]]
         name    = "contact"
