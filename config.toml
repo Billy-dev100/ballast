@@ -181,7 +181,7 @@ DefaultContentLanguage = "en"
         weight  = 4
     [[menu.nav]]
         name    = "insights"
-        url     = "blog"
+        url     = "insights"
         weight  = 5
     [[menu.nav]]
         name    = "contact"
