@@ -104,7 +104,7 @@ DefaultContentLanguage = "en"
 
     home = "Home"
     logo = "images/logo.png"
-    menufixed = true
+    menufixed = false
 
     footerDescription = "ENGLISH Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
     footerServiceTitle = "ENGLISH Service"
@@ -115,7 +115,7 @@ DefaultContentLanguage = "en"
     # Hero Area Section
     [Languages.en.params.hero]
         enable  = true
-        heading = "독보적 마케팅으로 성장 지속하기"
+        heading = "독보적 마케팅"
         description = "콘텐츠 마케팅 에이전시 밸러스트아이앤씨는 마케팅의 고질적 문제들을 해결합니다. 마구잡이식 콘텐츠 제작. 무의미한 광고비 지출. 공허한 SNS / 퍼포먼스 마케팅. 밸러스트와 함께 문제를 극복하고, 경쟁을 초월하여 성장하세요.."
         button  = true
         btnText = "어떻게 가능할까요?"
