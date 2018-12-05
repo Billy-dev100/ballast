@@ -4,7 +4,7 @@ title = "Ballast I&C | 콘텐츠 마케팅 에이전시 밸러스트아이앤씨
 theme = "navigator-hugo"
 
 # Build robots.txt file
-enableRobotsTXT = true
+enableRobotsTXT = false
 # google analytics tracking id
 googleAnalytics = ""
 
@@ -119,22 +119,22 @@ DefaultContentLanguage = "en"
         description = "콘텐츠 마케팅 에이전시 밸러스트아이앤씨는 마케팅의 고질적 문제들을 해결합니다. 마구잡이식 콘텐츠 제작. 무의미한 광고비 지출. 공허한 SNS / 퍼포먼스 마케팅. 밸러스트와 함께 문제를 극복하고, 경쟁을 초월하여 성장하세요.."
         button  = true
         btnText = "어떻게 가능할까요?"
-        btnURL  = "https://themefisher.com/"
+        btnURL  = ""
         videoThumb = "images/slider/video-player-thumb.jpg"
         videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
     # About 2 Section
     [Languages.en.params.aboutSm]
         enable  = true
-        title   = "ENGLISH We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+        title   = "콘텐츠 마케팅 에이전시 밸러스트아이앤씨입니다"
+        description = "우리는 공감을 바탕으로 체계적, 분석적인 리서치를 통해 고객을 이해합니다. 이렇게 이해한 내용으로 전략을 세웁니다. 전략에 근거하여 뛰어난 콘텐츠를 만들고 배포하여, 데이터를 기반으로 분석하고 최적화합니다. 우리는 클라이언트의 비즈니스 성장에 집중합니다. 우리는 밸러스트입니다."
 
     # Blog Section On Homepage
     [Languages.en.params.blog]
         enable  = true
-        topTitle= "OUR UNTOLD STORY"
-        title   = "ENGLISH Blog."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        topTitle= "마케팅 인사이트"
+        title   = "INSIGHTS"
+        subtitle= "마케팅에 대한 생각, 관점, 아이디어, 경험을 나눕니다."
 
     # Contact Section
     [Languages.en.params.contact]
