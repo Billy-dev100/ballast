@@ -1025,7 +1025,7 @@ button {
 
 /* 3. hero area */
 
-.hero-slider .heading {
+.hero-slider.heading {
 	color: white
 }
 
