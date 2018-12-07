@@ -1025,9 +1025,6 @@ button {
 
 /* 3. hero area */
 
-.hero-slider.heading {
-	color: white
-}
 
 .hero-slider.slick-slider {
   margin-bottom: 80px;
@@ -1043,6 +1040,12 @@ button {
   background-size: cover;
   outline: 0;
 }
+
+.hero-slider h1 {
+	color: #fff
+}
+
+
 
 .hero-slider .prevArrow,
 .hero-slider .nextArrow {
