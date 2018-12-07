@@ -1024,6 +1024,11 @@ button {
 }
 
 /* 3. hero area */
+
+.hero-slider .heading {
+	color: white
+}
+
 .hero-slider.slick-slider {
   margin-bottom: 80px;
 }
