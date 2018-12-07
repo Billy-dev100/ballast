@@ -773,7 +773,9 @@ button {
 .navigation .navbar-brand {
   position: absolute;
   left: 0;
-  top: -52px;
+/*  top: -52px; 
+*/
+  top: 0px;
   height: 100px;
   width: 100px;
   background: #fff;
@@ -1035,7 +1037,6 @@ button {
   background-position: center center;
   background-size: cover;
   outline: 0;
-  color: #fff;
 }
 
 .hero-slider .prevArrow,
