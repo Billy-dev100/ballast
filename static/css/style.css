@@ -1041,22 +1041,6 @@ button {
   outline: 0;
 }
 
-.hero-slider h1 {
-	color: #fff
-}
-
-.hero-slider h4 {
-	color: #fff
-}
-
-
-.hero-slider paragraph {
-	color: #fff
-}
-
-
-
-
 .hero-slider .prevArrow,
 .hero-slider .nextArrow {
   position: absolute;
