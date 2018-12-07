@@ -54,6 +54,7 @@ gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBk
 mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
+baseURL = "/"
 
     # Quote Button
     [params.quoteBtn]
