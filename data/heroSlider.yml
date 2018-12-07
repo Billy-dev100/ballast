@@ -3,7 +3,7 @@ sliderItem:
   - subHeading : We are here to
     heading : Planning Business
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
-    bgImage : images/banner/banner-1.jpg
+    bgImage : images/banner/ballast-bg.jpg
 #    dataIcon : ti-comments
 #    dataText : Consultation
     btn : 
