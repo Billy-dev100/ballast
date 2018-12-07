@@ -45,15 +45,15 @@ summaryLength = "20"
 
 [params]
 logo = "images/logo.png"
-mail = "info@companyname.com"
-mobile = "1234565523"
+#mail = "info@companyname.com"
+#mobile = "1234565523"
 searchIcon = "ti-search"
 home = "Home"
 # google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
-mapMarker = "images/marker.png"
+#gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-#m0gnUBkjmhoQyNyd7nllA"
+#mapLatitude = "51.5223477"
+#mapLongitude = "-0.1622023"
+#mapMarker = "images/marker.png"
 baseURL = "/"
 
     # Quote Button
