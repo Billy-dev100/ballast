@@ -1035,6 +1035,7 @@ button {
   background-position: center center;
   background-size: cover;
   outline: 0;
+  color: #fff;
 }
 
 .hero-slider .prevArrow,
