@@ -1,4 +1,4 @@
-enable : true
+enable : false
 sliderItem:
   - subHeading : We are here to
     heading : Planning Business
