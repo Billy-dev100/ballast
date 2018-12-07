@@ -4,8 +4,8 @@ sliderItem:
     heading : Planning Business
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
     bgImage : images/banner/banner-1.jpg
-    dataIcon : ti-comments
-    dataText : Consultation
+#    dataIcon : ti-comments
+#    dataText : Consultation
     btn : 
       enable : true
       btnText: More details
