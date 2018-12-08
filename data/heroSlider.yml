@@ -2,7 +2,8 @@ enable : true
 sliderItem:
   - subHeading : 경쟁을 뛰어넘는
     heading : 독보적 마케팅
-    description : 10x 콘텐츠. 더 높은 ROI. 성장의 자산이 되는 마케팅. 
+    description : 밸러스트는 고객 이해, 전략, 데이터를 중심으로 10x 콘텐츠와 더 높은 마케팅 ROI를 냅니다. 
+
     bgImage : images/banner/whale-bg.jpg
 #    dataIcon : ti-comments
 #    dataText : Consultation
