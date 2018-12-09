@@ -14,7 +14,7 @@
                 <h2 class="section-title section-title-border">Service We Provide</h2>
             </div>
             {{ range $index, $element:= where .Data.Pages "Type" "service" }}
-            {{ if lt $index 3 }}
+            {{ if lt $index 4 }}
             {{ "<!-- service item -->" | safeHTML }}
             <div class="col-lg-4 col-sm-6 mb-5">
                 <div class="card text-center">
