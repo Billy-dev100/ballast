@@ -19,7 +19,7 @@ summaryLength = "20"
     
     [[menu.nav]]
     name = "Insights"
-    URL = "/blog"
+    URL = "/insights"
     weight = 1
     
 #    [[menu.nav]]
