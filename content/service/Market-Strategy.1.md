@@ -1,5 +1,5 @@
 ---
-title: "Market Strategy"
+title: "콘텐츠 마케팅 풀 서비스"
 date: 2018-09-29T11:54:02+06:00
 image: images/service/service-5.jpg
 bgImage: images/background/page-title.jpg
@@ -13,10 +13,9 @@ offDay: Friday
 type : service
 ---
 
-### Marketing Oriented To The Targated Customers
+### ROI가 높은 콘텐츠 마케팅.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+ 핵심 고객을 이해하세요. 고객과 공명하는 콘텐츠를 만들어 전파하고, 높은 성과를 달성하세요. 
 
 >Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
 
