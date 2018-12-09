@@ -1027,7 +1027,7 @@ button {
 
 
 .hero-slider.slick-slider {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .hero-slider [data-animation-in] {
