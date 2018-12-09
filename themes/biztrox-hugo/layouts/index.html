@@ -14,7 +14,7 @@
             </div>
             
             {{ range $index, $element:= where .Data.Pages "Type" "post" }}
-            {{ if lt $index 3}}
+            {{ if lt $index 6}}
             {{ "<!-- blog-item -->" | safeHTML }}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card">
