@@ -1,5 +1,5 @@
 ---
-title: "마케팅 전략/고객 페르소나 리서치"
+title: "마케팅 전략/고객 리서치"
 date: 2018-09-29T11:54:02+06:00
 image: images/service/service-5.jpg
 bgImage: images/background/page-title.jpg
