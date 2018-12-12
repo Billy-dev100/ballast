@@ -169,6 +169,11 @@ img {
   border: 0;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 a,
 a:hover,
 a:focus {
