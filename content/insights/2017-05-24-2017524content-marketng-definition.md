@@ -5,7 +5,7 @@ date: 2017-05-24T05:17:53+00:00
 type: insights
 excerpt: '<p>밸러스트아이앤씨가 6하원칙에 따라 콘텐츠 마케팅에 대해 짧게 설명합니다.&nbsp;</p>'
 url: /insights/2017524content-marketng-definition/
-featured_image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/05/15110120/img-3.jpg
+image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/05/15110120/img-3.jpg
 slide_template:
   - default
 categories:
@@ -31,4 +31,3 @@ tags:
   * 어떻게: 언론사/매체사와 같은 방식으로 꾸준히
   * 왜: 적시에 적절한 콘텐츠로 고객에게 도움을 주어 관여도를 높이고 신뢰를 얻기 위해
 
- [1]: http://static1.squarespace.com/static/57eb896146c3c474983396c7/58aa49a629687f223f0aee71/5925956a15cf7d3172165379/1495635315014//img.jpg
