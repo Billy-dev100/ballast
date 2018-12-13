@@ -45,8 +45,8 @@ summaryLength = "20"
 
 [params]
 logo = "images/logo.png"
-#mail = "info@companyname.com"
-#mobile = "1234565523"
+#mail = "contact@ballast.co.kr"
+#mobile = "0269710615"
 searchIcon = "ti-search"
 home = "Home"
 # google map
@@ -58,9 +58,9 @@ baseURL = "/"
 
     # Quote Button
     [params.quoteBtn]
-    enable = true
-    btnText = "get a quote"
-    btnURL = "#"
+    enable = false
+    btnText = "Contact"
+    btnURL = "/contact"
 
     # about
     [params.about]
