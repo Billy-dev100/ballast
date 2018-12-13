@@ -37,10 +37,10 @@ summaryLength = "20"
 #    URL = "/pricing"
 #    weight = 7
     
-    [[menu.nav]]
-    name = "Contact"
-    URL = "/contact"
-    weight = 4
+#    [[menu.nav]]
+#    name = "Contact"
+#    URL = "/contact"
+#    weight = 4
 
 
 [params]
@@ -58,9 +58,9 @@ baseURL = "/"
 
     # Quote Button
     [params.quoteBtn]
-    enable = false
+    enable = true
     btnText = "Contact"
-    btnURL = "#"
+    btnURL = "/contact"
 
     # about
     [params.about]
