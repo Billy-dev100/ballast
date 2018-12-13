@@ -2,13 +2,8 @@
 title: 콘텐츠 마케팅 사례 12 – 오라클 마케팅 클라우드(Journey to Modern Marketing)
 author: 김민영
 date: 2017-08-17T22:50:54+00:00
-<type: insights>
 url: /insights/콘텐츠-마케팅-사례-12-오라클-마케팅-클라우드journey-to-modern-marketing/
-featured_image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/08/15105942/Screen-Shot-2017-08-18-at-7.48.12-AM.png
-slide_template:
-  - default
-amazonS3_cache:
-  - 'a:2:{s:70:"//ballast.co.kr/wp-content/uploads/2017/08/The-Blog-Tree-Small-2-2.jpg";i:53056;s:120:"//s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/08/15105943/The-Blog-Tree-Small-2-2.jpg";i:53056;}'
+image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/08/15105942/Screen-Shot-2017-08-18-at-7.48.12-AM.png
 categories:
   - Case Study
 tags:
@@ -22,13 +17,8 @@ tags:
 
 &nbsp;
 
-<div id="attachment_53056" style="width: 610px" class="wp-caption aligncenter">
-  <img class="wp-image-53056 size-full" title="오라클의 블로그 나무 인포그래픽" src="http://ballast.co.kr/wp-content/uploads/2017/08/The-Blog-Tree-Small-2-2.jpg" alt="" width="600" height="874" srcset="https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/08/15105943/The-Blog-Tree-Small-2-2.jpg 600w, https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/08/15105943/The-Blog-Tree-Small-2-2-206x300.jpg 206w" sizes="(max-width: 600px) 100vw, 600px" />
-  
-  <p class="wp-caption-text">
-    오라클의 블로그 나무 인포그래픽
-  </p>
-</div>
+![오라클의 블로그 나무 인포그래픽](http://ballast.co.kr/wp-content/uploads/2017/08/The-Blog-Tree-Small-2-2.jpg)
+오라클의 블로그 나무 인포그래픽
 
 &nbsp;
 
@@ -80,10 +70,5 @@ _분야는 다르지만 마케팅의 효율성을 추구하고 있는 한국기�
 
 [콘텐츠 마케팅 전략 문서의 중요성과 작성법][2] 을 참고해주세요.
 
-궁금한 점이 있다면 댓글을 남겨주시거나, 문의하기 버튼을 눌러 문의해주세요.
-
-[<i class="fa fa-chevron-circle-right"></i><span>문의하기</span>][3]{#dt-btn-8.btn-shortcode.dt-btn-m.dt-btn.custom-btn-color.custom-btn-hover-color.fadeIn.animate-element.animation-builder}
-
  [1]: https://blogs.oracle.com/marketingcloud/the-blog-tree
- [2]: http://ballast.co.kr/insights/%ec%bd%98%ed%85%90%ec%b8%a0-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%a0%84%eb%9e%b5-%eb%ac%b8%ec%84%9c%ec%9d%98-%ec%a4%91%ec%9a%94%ec%84%b1%ea%b3%bc-%ec%9e%91%ec%84%b1%eb%b2%95/
- [3]: /contact
+ [2]: /insights/%ec%bd%98%ed%85%90%ec%b8%a0-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%a0%84%eb%9e%b5-%eb%ac%b8%ec%84%9c%ec%9d%98-%ec%a4%91%ec%9a%94%ec%84%b1%ea%b3%bc-%ec%9e%91%ec%84%b1%eb%b2%95/
