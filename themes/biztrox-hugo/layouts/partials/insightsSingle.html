@@ -12,6 +12,19 @@
 <!--                            <li class="list-inline-item text-color">On {{ .PublishDate.Format "02 Jan" }}</li>  -->
                             <li class="list-inline-item text-color">Tag: {{ .Params.Tags }}</li>
                         </ul>
+                        	<category>
+	<h2>Category</h2>
+<ul class="pa0">
+  {{ range .Params.categories }}
+   <li class="list">
+     <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+       {{- . -}}
+     </a>
+   </li>
+  {{ end }}
+</ul>
+
+	</category>
                         <div class="post-content">
                             {{ .Content }}
                         </div>
