@@ -152,20 +152,20 @@ baseURL = "/"
     # footer
     [params.footer]
     logo = "images/logo-footer.png"
-    content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+    content = "콘텐츠 마케팅 에이전시 밸러스트아이앤씨. 클라이언트의 성장과 지속을 함께 고민하고, 경험과 관점을 공유하며, 성과와 데이터를 중심으로 일합니다."
 
     # service links
-    services = "Services"
+    services = "What We Do"
     
     # quickLinks
-    quickLink = "Quick Link"
+    quickLink = "Links"
 
     # subscribe
-    subscribe = "Subscribe Us"
-    subscribeContent = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
+    subscribe = "이메일 구독"
+    subscribeContent = "2주에 한 번씩 밸러스트 웹사이트에 올라오는 인사이트를 이메일로 구독하세요"
 
     # copyright
-    copyright = "Bizpro</span> &copy; 2017 All Right Reserved"
+    copyright = "Ballast I&C</span> &copy; 2019 All Right Reserved"
 
         # social icon
         [[params.footer.socialIcon]]
