@@ -28,7 +28,7 @@ tags:
 
 &nbsp;
 
-
+{{< youtube PWqMPsCEILQ >}}
 
 오라클 마케팅 클라우드의 애니메이션 시리즈 &#8220;Journey to Modern Marketing&#8221;
 
