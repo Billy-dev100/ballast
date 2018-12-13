@@ -1,19 +1,27 @@
 philosophy :
   enable : true
   titleSM : 쳇바퀴 도는
-  title : 마케팅의 문제
-  content : 흔히들 마케팅이라고 생각하는 활동은 표면에 머무릅니다. 퍼포먼스 마케팅, SNS, 그로스 해킹도 탄탄한 근본에서 시작하면, ROI가 월등하고 오랫동안 잘 할 수 있습니다. 물론 이렇게 근본부터 쌓아올리는 마케팅은 지름길이 없고, 난이도와 차원이 높아서 어렵습니다. 밸러스트아이앤씨는 클라이언트가 이 과정을 더 쉽게, 완벽하게 수행하도록 돕습니다. 근간부터 쌓아올려 결과로 말하는 마케팅 활동을 함께 합니다.
+  title : **마케팅의 문제**
+  content : 흔히들 마케팅이라고 생각하는 활동은 표면에 머무릅니다. 퍼포먼스 마케팅, SNS, 그로스 해킹도 탄탄한 근본에서 시작하면, ROI가 월등하고 오랫동안 잘 할 수 있습니다. 물론 이렇게 근본부터 쌓아올리는 마케팅은 지름길이 없고, 난이도와 차원이 높아서 어렵습니다. 밸러스트아이앤씨는 당신이 독보적인 마케팅을 하도록 돕습니다. 우리는 어떤 에이전시보다도 고객이해와 경쟁지형에 대해 깊고 뛰어난 통찰을 제시합니다. 그리고 이를 바탕으로 독보적 콘텐츠, 독보적 마케팅이 가능한 기반을 마련하고 실행합니다. 우리는 끝없는 마케팅 이전투구에서 벗어나고 싶은 클라이언트들을 돕습니다.
   image : images/how-it-works/marketing-sub.png
   btn :
-    enable : true
+    enable : false
     btnText : Explore More
     btnURL : "#"
+
+  titleSM : Skin in the Game 
+  title : 에이전시의 문제
+  content : 에이전시는 기본적인 한계가 있습니다. 하지만 달리 방도가 없어서 회사들은 마케팅 에이전시를 고용합니다. 우리는 마케팅 대행의 한계와 문제를 뛰어넘기 위한 고민을 해왔습니다. 
+  고민의 결론은 다음과 같습니다. 우리는 마케팅의 가장 깊고 가장 앞선 곳에서, 믿음과 세계관을 공유하는 클라이언트에게 우리의 관점을 제시하고 경험을 공유합니다. 밸러스트가 존재하는 이유이며, 가장 부가가치를 높이는 일입니다. 
+  밸러스트가 마케팅 에이전시 업무에서 가장 중요하게 생각하는 것은 클라이언트의 비전, 관점, 태도입니다. 우리는 장기적인 비전이나 고객을 위한 철학이 없는 회사와는 일하지 않습니다. 밸러스트는 훌륭하고 독보적인 클라이언트가 마케팅을 좀 더 쉽고 원활히 하도록, 장기적으로는 비용을 훨씬 줄이도록 돕습니다.
+
 
 ceo :
   enable : true
   bgImage : images/about/ceo.jpg
-  title : We are efficient to <br> make your business rise
-  content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+  title : 밸러스트의 방식
+  content : 마케팅을 잘 한다는 것은 위의 세 가지를 꾸준히 반복하는 것입니다.
+(그래서 밸러스트의 콘텐츠는 다수의 마케팅 관련 키워드에서 검색엔진(구글) 오가닉 순위 1위를 차지하고, CTR 20%~30%를 기록합니다. 구글에서 “콘텐츠 마케팅”, “마케팅 예산”, “SNS 마케팅”, “브랜드 스토리”, “마케팅 스토리텔링”, “비디오 마케팅”, “신제품 마케팅”, “B2B 마케팅”, “B2C 마케팅”을 검색하고 검색결과를 확인해보세요.)
   signature : images/about/ceo-signature.png
   name : John Doe
   designation : CEO
