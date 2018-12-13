@@ -17,7 +17,7 @@ tags:
 
 &nbsp;
 
-![오라클의 블로그 나무 인포그래픽](http://ballast.co.kr/wp-content/uploads/2017/08/The-Blog-Tree-Small-2-2.jpg)
+![오라클의 블로그 나무 인포그래픽](https://ballast.co.kr/wp-content/uploads/2017/08/The-Blog-Tree-Small-2-2.jpg)
 오라클의 블로그 나무 인포그래픽
 
 &nbsp;
