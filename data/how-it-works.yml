@@ -1,0 +1,39 @@
+philosophy :
+  enable : true
+  titleSM : 쳇바퀴 도는
+  title : 마케팅의 문제
+  content : 흔히들 마케팅이라고 생각하는 활동은 표면에 머무릅니다. 퍼포먼스 마케팅, SNS, 그로스 해킹도 탄탄한 근본에서 시작하면, ROI가 월등하고 오랫동안 잘 할 수 있습니다. 물론 이렇게 근본부터 쌓아올리는 마케팅은 지름길이 없고, 난이도와 차원이 높아서 어렵습니다. 밸러스트아이앤씨는 클라이언트가 이 과정을 더 쉽게, 완벽하게 수행하도록 돕습니다. 근간부터 쌓아올려 결과로 말하는 마케팅 활동을 함께 합니다.
+  image : images/about/philosophy.jpg
+  btn :
+    enable : true
+    btnText : Explore More
+    btnURL : "#"
+
+ceo :
+  enable : true
+  bgImage : images/about/ceo.jpg
+  title : We are efficient to <br> make your business rise
+  content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+  signature : images/about/ceo-signature.png
+  name : John Doe
+  designation : CEO
+
+funfacts : 
+  enable : true
+  bgImage : images/background/cta.jpg
+  counter : 
+    - title : Projects Done
+      icon : ti-server
+      count : 230
+      
+    - title : Satisfied Clients
+      icon : ti-face-smile
+      count : 789
+      
+    - title : Cup Of Coffee
+      icon : ti-thumb-up
+      count : 580
+      
+    - title : Awards Win
+      icon : ti-cup
+      count : 130
