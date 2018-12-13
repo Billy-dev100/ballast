@@ -58,7 +58,7 @@ baseURL = "/"
 
     # Quote Button
     [params.quoteBtn]
-    enable = true
+    enable = false
     btnText = "Quote"
     btnURL = "#"
 
