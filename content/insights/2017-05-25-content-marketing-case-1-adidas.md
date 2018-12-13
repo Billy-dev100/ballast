@@ -6,6 +6,7 @@ type: insights
 excerpt: "<p>밸러스트아이앤씨에서 발행하는 콘텐츠 마케팅 사례 시리즈 첫 번째입니다.&nbsp;<br />콘텐츠 마케팅 시리즈 사례는 전
   세계 다양한 기업들의 콘텐츠 마케팅 사례를 통해 아이디어를 얻고, 콘텐츠 마케팅에 대해 더 잘 이해할 수 있도록 작성했습니다.</p>"
 url: "/insights/content-marketing-case-1-adidas/"
+image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/02/15110119/img-3.png
 categories:
 - Case Study
 tags:
