@@ -1,16 +1,14 @@
 enable : true
 title : Contact Us
-formTitle : Contact Form
-btnText : Submit Now
+formTitle : 문의 양식
+btnText : 문의 전송하기
 contactList : 
   - icon : ti-mobile
-    listItem1 : +88 0123 456 789
-    listItem2 : +88 987 654 3210
+    listItem1 : 02-6971-0615
     
   - icon : ti-email
-    listItem1 : info@biztrox.com
-    listItem2 : biztrox@email.com
+    listItem1 : contact@ballast.co.kr
     
   - icon : ti-map-alt
-    listItem1 : 24/B Garden Street.
-    listItem2 : Northambia, Weals, UK
+    listItem1 : 서울시 강남구 남부순환로 2621
+    listItem2 : 서브원 강남빌딩 11층
