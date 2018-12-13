@@ -57,10 +57,10 @@ home = "Home"
 baseURL = "/"
 
     # Quote Button
-    [params.quoteBtn]
-    enable = false
-    btnText = "Quote"
-    btnURL = "#"
+#    [params.quoteBtn]
+#    enable = true
+#    btnText = "Contact"
+#    btnURL = "#"
 
     # about
     [params.about]
