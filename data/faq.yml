@@ -7,11 +7,11 @@ accordion :
   - ID : collapseOne
     title : 우리 회사는 지금 콘텐츠를 제작해서 마케팅을 하고 있습니다. 콘텐츠 마케팅과 뭐가 다르죠?
     description : | 
-        다음에 해당한다면 제대로 된 콘텐츠 마케\n팅이 아닙니다.(고객이 콘텐츠를 기다리지 않는다),(콘텐츠의 타깃 키워드가 오가닉 검색 순위 3위 밖이다), (오가닉 인게이지먼트 비율 20% 미만), (CTR 20% 미만). 고객을 제대로 이해하여 핵심 고객과 공명하는 콘텐츠를 만들고 계신가요?
+    다음에 해당한다면 제대로 된 콘텐츠 마케팅이 아닙니다.\n(고객이 콘텐츠를 기다리지 않는다),(콘텐츠의 타깃 키워드가 오가닉 검색 순위 3위 밖이다), (오가닉 인게이지먼트 비율 20% 미만), (CTR 20% 미만). 고객을 제대로 이해하여 핵심 고객과 공명하는 콘텐츠를 만들고 계신가요?
     
   - ID : collapseTwo
-    title : Our Company Mission
-    description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+    title : 콘텐츠 마케팅은 너무 장기적인 전략 아닌가요?
+    description : 이런 질문을 하는 분들에게 반문해봅니다. 당신이 마케터라면 -회사에서 당신을 3개월 이상 채용하면 너무 장기적인 관점 아닌가요? 당신이 경영자라면 - 3개월 후에 사업을 접을 계획이신가요? 콘텐츠 마케팅을 한다고 지금 하는 활동을 접을 필요는 없습니다. 콘텐츠 마케팅을 하면 기존의 마케팅은 효과가 배가됩니다. 밑도 끝도 없는 광고 콘텐츠를 만들 예산으로 콘텐츠를 만들면 마케팅 ROI는 몇 배, 몇 십 배 높아집니다.
     
   - ID : collapseThree
     title : Our Company Mission
