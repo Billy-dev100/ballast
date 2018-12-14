@@ -9,7 +9,7 @@ philosophy :
     btnText : Explore More
     btnURL : "#"
 
-ceo :
+principles :
   enable : true
   bgImage : images/about/ceo.jpg
   title : Principles
