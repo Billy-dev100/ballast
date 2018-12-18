@@ -1,5 +1,5 @@
 ---
-title: "Valuable Idea"
+title: "콘텐츠 제작"
 date: 2018-09-29T11:51:17+06:00
 image: images/service/service-6.jpg
 bgImage: images/background/page-title.jpg
@@ -13,21 +13,22 @@ offDay: Friday
 type : service
 ---
 
-### Marketing Oriented To The Targated Customers
+### 마케팅 목표/채널/고객에 맞는 최적의 퀄리티 콘텐츠 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+밸러스트는 체계적, 통합적으로 최고의 콘텐츠를 만들어 마케팅 자산을 축적해드립니다. 마케팅 효과가 가장 큰 채널에서 예산에 맞는 최적의 콘텐츠를 제작합니다. 형태는 아티클, 영상, 그래픽 디자인, 인포그래픽, 이벤트 등 모든 분야를 아우릅니다. 
 
 
->Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
+> 밸러스트에는 15년 경력의 AE, 국내 최고 뷰티 매거진 에디터, 10년 경력의 디자이너, 영상 제작자들이 프로젝트를 총괄/관리합니다. 여기에 독일 디지털 에이전시와 협업하고 오랜 외주관리 노하우로 예산을 효율적으로 사용합니다. 이를 바탕으로 다음과 같은 콘텐츠를 주로 제작합니다.  
 
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
+1. 영상/애니메이션
+2. 웹/앱
+3. 아티클
+4. 소셜미디어 콘텐츠
 
-#### Marketing Improvement Strategy
+#### Work 
 
 ![Chart](../../images/service/service-chart.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+
 ---
 
