@@ -43,6 +43,11 @@ summaryLength = "20"
 #    weight = 4
 
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+
 [params]
 logo = "images/logo.png"
 #mail = "contact@ballast.co.kr"
