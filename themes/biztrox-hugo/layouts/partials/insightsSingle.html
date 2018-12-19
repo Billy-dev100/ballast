@@ -4,10 +4,10 @@
         <div class="row">
             {{ "<!-- sidebar -->" | safeHTML }}
             <aside class="col-lg-4 order-lg-1 order-2">
-                {{ "<!-- Brochure -->" | safeHTML }}
+                {{ "<!-- Categories -->" | safeHTML }}
                 <div class="rounded border py-3 px-4 mb-50">
                     <i class="d-inline-block mr-1 text-dark ti-files" style="font-size: 20px;"></i>
-                    <h4 class="mb-1 d-inline-block"> Categories</h4>
+                    <h4 class="mb-1 d-inline-block"> Category</h4>
 						<ul class="pa0">
 						  {{ range .Params.categories }}
 						   <li class="list">
@@ -18,8 +18,6 @@
 						  {{ end }}
 						</ul>
 
-
-                    <a class="font-secondary text-color d-block ml-4" href="{{ .Params.BrochureURL | absURL }}">Download pdf</a>
                 </div>
                 {{ "<!-- Opening Hours -->" | safeHTML }}
                 <div class="mb-50">
