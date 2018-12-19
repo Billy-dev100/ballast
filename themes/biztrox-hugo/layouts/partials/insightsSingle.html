@@ -21,19 +21,8 @@
                 </div>
                 {{ "<!-- Opening Hours -->" | safeHTML }}
                 <div class="mb-50">
-                    <h5 class="mb-20">Opening Hours</h5>
+                    <h5 class="mb-20">Tags</h5>
 				      {{- partial "tags.html" . -}}
-
-
-
-                    <ul class="pl-0 border rounded px-4 py-3">
-                        <li class=" font-secondary my-3 text-color">
-                            <span class="d-inline-block font-weight-light text-dark" style="width: 130px;">{{ .Params.RegularDay }}:</span>{{ .Params.RegularTime }}</li>
-                        <li class=" font-secondary my-3 text-color">
-                            <span class="d-inline-block font-weight-light text-dark" style="width: 130px;">{{ .Params.HalfDay }}:</span>{{ .Params.HalfTime }}</li>
-                        <li class="text-danger font-secondary my-3">
-                            <span class="d-inline-block font-weight-light text-dark" style="width: 130px;">{{ .Params.OffDay }}:</span>Closed</li>
-                    </ul>
                 </div>
             </aside>        
         
