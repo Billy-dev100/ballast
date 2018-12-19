@@ -22,6 +22,10 @@
                 {{ "<!-- Opening Hours -->" | safeHTML }}
                 <div class="mb-50">
                     <h5 class="mb-20">Opening Hours</h5>
+				      {{- partial "tags.html" . -}}
+
+
+
                     <ul class="pl-0 border rounded px-4 py-3">
                         <li class=" font-secondary my-3 text-color">
                             <span class="d-inline-block font-weight-light text-dark" style="width: 130px;">{{ .Params.RegularDay }}:</span>{{ .Params.RegularTime }}</li>
