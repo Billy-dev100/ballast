@@ -8,7 +8,17 @@
                 <div class="rounded border py-3 px-4 mb-50">
                     <i class="d-inline-block mr-1 text-dark ti-files" style="font-size: 20px;"></i>
                     <h4 class="mb-1 d-inline-block"> Categories</h4>
-				    {{ range .Params.categories }}{{ . }}{{ end }}
+						<ul class="pa0">
+						  {{ range .Params.categories }}
+						   <li class="list">
+						     <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+						       {{- . -}}
+						     </a>
+						   </li>
+						  {{ end }}
+						</ul>
+
+
                     <a class="font-secondary text-color d-block ml-4" href="{{ .Params.BrochureURL | absURL }}">Download pdf</a>
                 </div>
                 {{ "<!-- Opening Hours -->" | safeHTML }}
