@@ -1987,6 +1987,8 @@ ul.tag-list li a:hover {
   font-size: 13px;
 }
 
+
+
 /* 21.5 blog single start */
 /* share icon */
 .share-icon {
@@ -2423,6 +2425,15 @@ blockquote{
   width: 100%;
   border-radius: 35px;
   border: 0;
+  padding: 0 20px !important;
+  height: 50px;
+}
+
+.form-control.subscribe-border {
+  width: 100%;
+  border-radius: 35px;
+  border: 1px;
+  color: c5c5c5;
   padding: 0 20px !important;
   height: 50px;
 }
