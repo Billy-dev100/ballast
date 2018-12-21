@@ -10,22 +10,22 @@ summaryLength = "20"
     [[menu.nav]]
     name = "About"
     URL = "/about"
-    weight = 3
+    weight = 4
     
     [[menu.nav]]
     name = "Service"
     URL = "/service"
-    weight = 2
+    weight = 3
     
     [[menu.nav]]
     name = "Insights"
     URL = "/insights"
     weight = 1
     
-#    [[menu.nav]]
-#    name = "Project"
-#    URL = "/project"
-#    weight = 5
+    [[menu.nav]]
+    name = "How It Works"
+    URL = "/howitworks"
+    weight = 2
 #    
 #    [[menu.nav]]
 #    name = "Team"
