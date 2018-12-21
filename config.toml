@@ -175,19 +175,19 @@ baseURL = "/"
         # social icon
         [[params.footer.socialIcon]]
         icon = "ti-facebook"
-        URL = "#"
+        URL = "www.facebook.com/ballast.co.kr"
 
         [[params.footer.socialIcon]]
         icon = "ti-twitter-alt"
         URL = "#"
         
-        [[params.footer.socialIcon]]
-        icon = "ti-vimeo-alt"
-        URL = "#"
+#        [[params.footer.socialIcon]]
+#        icon = "ti-vimeo-alt"
+#        URL = "#"
         
-        [[params.footer.socialIcon]]
-        icon = "ti-linkedin"
-        URL = "#"
+#        [[params.footer.socialIcon]]
+#        icon = "ti-linkedin"
+#        URL = "#"
 
         # service links
 #        [[params.footer.service]]
