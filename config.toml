@@ -190,80 +190,80 @@ baseURL = "/"
         URL = "#"
 
         # service links
-        [[params.footer.service]]
-        serviceItem = "Company History"
-        URL = "#"
+#        [[params.footer.service]]
+#        serviceItem = "Company History"
+#        URL = "#"
         
-        [[params.footer.service]]
-        serviceItem = "About Us"
-        URL = "#"
+#        [[params.footer.service]]
+#        serviceItem = "About Us"
+#        URL = "#"
         
-        [[params.footer.service]]
-        serviceItem = "Contact Us"
-        URL = "#"
+#        [[params.footer.service]]
+#        serviceItem = "Contact Us"
+#        URL = "#"
         
-        [[params.footer.service]]
-        serviceItem = "Service"
-        URL = "#"
+#        [[params.footer.service]]
+#        serviceItem = "Service"
+#        URL = "#"
         
-        [[params.footer.service]]
-        serviceItem = "Privacy Policy"
-        URL = "#"
+#        [[params.footer.service]]
+#        serviceItem = "Privacy Policy"
+#        URL = "#"
 
         # quick links
-        [[params.footer.quickLinks]]
-        quickLinkItem = "Pricing"
-        URL = "#"
+#        [[params.footer.quickLinks]]
+#        quickLinkItem = "Pricing"
+#        URL = "#"
         
-        [[params.footer.quickLinks]]
-        quickLinkItem = "FAQs"
-        URL = "#"
+#        [[params.footer.quickLinks]]
+#        quickLinkItem = "FAQs"
+#        URL = "#"
         
-        [[params.footer.quickLinks]]
-        quickLinkItem = "Contact Us"
-        URL = "#"
+#        [[params.footer.quickLinks]]
+#        quickLinkItem = "Contact Us"
+#        URL = "#"
         
-        [[params.footer.quickLinks]]
-        quickLinkItem = "Service"
-        URL = "#"
+#        [[params.footer.quickLinks]]
+#        quickLinkItem = "Service"
+#        URL = "#"
         
-        [[params.footer.quickLinks]]
-        quickLinkItem = "Privacy Policy"
-        URL = "#"
+#        [[params.footer.quickLinks]]
+#        quickLinkItem = "Privacy Policy"
+#        URL = "#"
 
-        # bottom links
-        [[params.footer.links]]
-            name = "Legal"
-            URL = "#"
+#        # bottom links
+#        [[params.footer.links]]
+#            name = "Legal"
+#            URL = "#"
             
-        [[params.footer.links]]
-            name = "Sitemap"
-            URL = "#"
+#        [[params.footer.links]]
+#            name = "Sitemap"
+#            URL = "#"
             
-        [[params.footer.links]]
-            name = "Privacy Policy"
-            URL = "#"
+#        [[params.footer.links]]
+#            name = "Privacy Policy"
+#            URL = "#"
             
-        [[params.footer.links]]
-            name = "Terms & Conditions"
-            URL = "#"
+#        [[params.footer.links]]
+#            name = "Terms & Conditions"
+#            URL = "#"
 
     # share blog post
-    [[params.sharePost]]
-    icon = "ti-facebook"
-    URL = "#"
+#    [[params.sharePost]]
+#    icon = "ti-facebook"
+#    URL = "#"
     
-    [[params.sharePost]]
-    icon = "ti-twitter-alt"
-    URL = "#"
+#    [[params.sharePost]]
+#    icon = "ti-twitter-alt"
+#    URL = "#"
     
-    [[params.sharePost]]
-    icon = "ti-linkedin"
-    URL = "#"
+#    [[params.sharePost]]
+#    icon = "ti-linkedin"
+#    URL = "#"
     
-    [[params.sharePost]]
-    icon = "ti-google"
-    URL = "#"
+#    [[params.sharePost]]
+#    icon = "ti-google"
+#    URL = "#"
         
 
 
