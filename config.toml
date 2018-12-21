@@ -160,10 +160,10 @@ baseURL = "/"
     content = "콘텐츠 마케팅 에이전시 밸러스트아이앤씨. 클라이언트의 성장과 지속을 함께 고민하고, 경험과 관점을 공유하며, 성과와 데이터를 중심으로 일합니다."
 
     # service links
-    services = "What We Do"
+#    services = "What We Do"
     
     # quickLinks
-    quickLink = "Links"
+#    quickLink = "Links"
 
     # subscribe
     subscribe = "이메일 구독"
