@@ -2433,7 +2433,8 @@ blockquote{
   width: 100%;
   border-radius: 35px;
   border: 1px;
-  border-color: #c5c5c5;
+  border-color: #c5c5c5; !important;
+  background: #e5e5e5;
   padding: 0 20px !important;
   height: 50px;
 }
