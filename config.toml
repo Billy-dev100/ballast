@@ -231,7 +231,7 @@ baseURL = "/"
 #        quickLinkItem = "Privacy Policy"
 #        URL = "#"
 
-#        # bottom links
+        # bottom links
 #        [[params.footer.links]]
 #            name = "Legal"
 #            URL = "#"
@@ -240,9 +240,9 @@ baseURL = "/"
 #            name = "Sitemap"
 #            URL = "#"
             
-#        [[params.footer.links]]
-#            name = "Privacy Policy"
-#            URL = "#"
+        [[params.footer.links]]
+            name = "개인정보 보호정책"
+            URL = "#"
             
 #        [[params.footer.links]]
 #            name = "Terms & Conditions"
