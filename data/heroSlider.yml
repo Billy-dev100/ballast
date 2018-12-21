@@ -9,8 +9,8 @@ sliderItem:
 #    dataText : Consultation
     btn : 
       enable : true
-      btnText: More details
-      btnURL : '#'
+      btnText: 어떻게 가능한가요?
+      btnURL : '/howitworks'
 #      
 #  - subHeading : Get your
 #    heading : Business Consultant
