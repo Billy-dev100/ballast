@@ -167,7 +167,7 @@ baseURL = "/"
 
     # subscribe
     subscribe = "이메일 구독"
-    subscribeContent = "2주에 한 번씩 밸러스트 웹사이트에 올라오는 인사이트를 이메일로 구독하세요"
+    subscribeContent = "2주마다 올라오는 밸러스트의 마케팅 인사이트를 이메일로 구독하세요."
 
     # copyright
     copyright = "Ballast I&C</span> &copy; 2019 All Right Reserved"
