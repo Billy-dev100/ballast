@@ -9,18 +9,9 @@
                     <i class="d-inline-block mr-1 text-dark ti-files" style="font-size: 20px;"></i>
                     <h4 class="mb-1 d-inline-block"> Category</h4>
 						<ul class="pa0">
-
-
 						  {{ range .Params.categories }}
 						   <li class="list">
-            {{ with .Site.Taxonomies.categories }}
-              {{ range $name, $taxonomy := . }}
-                {{ $term := urlize $name }}
-                  A {{ $taxonomy.Count }}-post collection
-                {{ end }}
-              {{ end }}
-
-
+					        <a href="{{ "/insights/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
 						   </li>
 						  {{ end }}
 						</ul>
