@@ -11,7 +11,7 @@
 						<ul class="pa0">
 						  {{ range .Params.categories }}
 						   <li class="list">
-					        <a href="{{ "/insights/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+					        <a href="{{ "//categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>
 						   </li>
 						  {{ end }}
 						</ul>
