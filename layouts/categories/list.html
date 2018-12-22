@@ -1,0 +1,10 @@
+{{ "<!-- categories -->" | safeHTML }}
+
+						  {{ range .Params.categories }}
+						   <li class="list">
+					        <a href="{{ .Permalink }}">{{ . }}</a>
+						   </li>
+						  {{ end }}
+						</ul>
+
+{{ "<!-- categories -->" | safeHTML }}
