@@ -7,7 +7,6 @@
                 <h2 class="section-title section-title-border">업무영역</h2>
             </div>
             {{ range .Data.Pages }}
-            {{ if lt $index 4 }}            
             {{ "<!-- service item -->" | safeHTML }}
             <div class="col-lg-4 col-sm-6 mb-5">
                 <div class="card text-center">
