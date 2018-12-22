@@ -1,13 +1,9 @@
 {{ "<!-- categories -->" | safeHTML }}
 
 <ul>
-  {{ range .Params.categories }}
-   <li>
-     <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">
-       {{- . -}}
-     </a>
-   </li>
-  {{ end }}
+{{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
+   <a href="{{.Permalink}}">{{.Title}}</a></li>
+{{end}}
 </ul>
 
 {{ "<!-- categories -->" | safeHTML }}
