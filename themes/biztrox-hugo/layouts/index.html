@@ -25,8 +25,11 @@
                     <div class="card-body p-0">
                         <div class="d-flex">
                             <div class="py-3 px-4 border-right text-center">
-                                <h3 class="text-primary mb-0">{{ .PublishDate.Format "02" }}</h3>
-                                <p class="mb-0">{{ .PublishDate.Format "Jan" }}</p>
+<!--                                <h3 class="text-primary mb-0">{{ .PublishDate.Format "02" }}</h3>
+                                <p class="mb-0">{{ .PublishDate.Format "Jan" }}</p> 
+                                -->
+                                <p class="mb-0">{{ .Params.Categories }}</p>
+                                
                             </div>
                 	<a href="{{ .Permalink }}">
                             <div class="p-3">
