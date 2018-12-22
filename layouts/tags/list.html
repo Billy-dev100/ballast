@@ -1,7 +1,5 @@
 {{ "<!-- tags -->" | safeHTML }}
 <p>a</p>
-            {{ range.Data.Pages.ByWeight }}
-
 						  {{ range .Params.tags }}
 						   <li class="list">
 					        <a href="{{ .Permalink }}">{{ . }}</a>
