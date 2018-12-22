@@ -11,6 +11,7 @@ halfDay: Thursday
 halfTime: 08.00am - 01.00pm
 offDay: Friday
 type : service
+summary : test
 ---
 
 ### 100배의 효과를 내는 계획을 수립합니다.  
