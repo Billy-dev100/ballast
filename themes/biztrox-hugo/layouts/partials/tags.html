@@ -1,8 +1,7 @@
 <ul class="pa0">
-  {{ range ($.Site.Getpage "taxonomyTerm" "tags").Pages }}
+  {{ range Params.tags }}
    <a href="{{.Permalink}}">{{.Title}}</a></li>
 {{end}}
-
 </ul>
 
 
