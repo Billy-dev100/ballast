@@ -11,7 +11,7 @@
 						<ul class="pa0">
 						  {{ range .Params.categories }}
 						   <li class="list">
-						    <a href="{{ delimit (slice "/categories/" (urlize .) $.Site.Params.ugly) "" | relURL }}">Category: {{ . }}</a>
+						    <a href="{{ .Permalink }}">{{ . }}</a>
 						   </li>
 						  {{ end }}
 						</ul>
