@@ -1,5 +1,5 @@
 /* 1.1 typography */
-@import url("https://fonts.googleapis.com/css?family=Noto+Sans+KR");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500,600,700");
 body {
   font-family: "Noto Sans KR", sans-serif;
   font-weight: 400;
@@ -28,13 +28,13 @@ h1, .h1 {
 @media (max-width: 400px) {
   h1, .h1 {
     font-size: 30px;
-    font-weight: bold;
+    font-weight: 700;
   }
 }
 
 h2, .h2 {
   font-size: 36px;
-  font-weight: bold;
+  font-weight: 700;
 
 }
 
