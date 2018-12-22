@@ -1,5 +1,5 @@
 <ul class="pa0">
-  {{ range ($Site.Getpage "taxonomyTerm" "tags").Pages }}
+  {{ range ($.Site.Getpage "taxonomyTerm" "tags").Pages }}
    <a href="{{.Permalink}}">{{.Title}}</a></li>
 {{end}}
 
