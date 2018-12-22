@@ -1,7 +1,7 @@
 /* 1.1 typography */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Poppins:300,400,500,600,700|Work+Sans:400,500,600");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+KR");
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Noto Sans KR", sans-serif;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
@@ -12,13 +12,13 @@ p, .paragraph {
   color: #666;
   font-size: 18px;
   line-height: 30px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Noto Sans KR", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #222;
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
+  font-family: "Noto Sans KR", sans-serif;
 }
 
 h1, .h1 {
