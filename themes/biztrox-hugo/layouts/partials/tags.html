@@ -1,7 +1,7 @@
 <ul class="pa0">
-  {{ range.Data.Pages.ByWeight }}
   {{ range .Params.tags }}
    <li class="list">
+   <a href="{{ $.Site.BaseUrl }}/tags/{{ .|urlize }}">{{ . }}</a>
    </li>
   {{ end }}
 </ul>
