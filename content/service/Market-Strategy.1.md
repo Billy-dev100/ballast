@@ -11,14 +11,13 @@ halfDay: Thursday
 halfTime: 08.00am - 01.00pm
 offDay: Friday
 type : service
-description : test
 ---
 
 ### 100배의 효과를 내는 계획을 수립합니다.  
 
  고객 이해에 기반한 마케팅 계획은 실행의 효과를 극대화합니다. 
 
->목표 달성과 성장을 위한 마케팅 플랫폼을 설계하세요. 고객 이해, 경쟁지형 점검, 목표설정을 통해 실행계획을 세우세요. 
+>목표 달성과 성장을 위한 마케팅 플랫폼을 설계하세요. 고객 이해, 경쟁지형 점검, 목표설정을 통해 실행계획을 세우세요. <!--more--> 
 
 1. Business Services
 2. Audit & Assurance
