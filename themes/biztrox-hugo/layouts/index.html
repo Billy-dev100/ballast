@@ -22,6 +22,8 @@
                     <div class="card-img-wrapper overlay-rounded-top">
                         <img class="card-img-top" src="{{ .Params.image | absURL }}" alt="blog-thumbnail">
                     </div>
+                	</a>
+                    
                     <div class="card-body p-0">
                         <div class="d-flex">
 <!--                            <div class="py-3 px-4 border-right text-center">
@@ -29,7 +31,6 @@
                                 <p class="mb-0">{{ .PublishDate.Format "Jan" }}</p> 
                             </div>
                                 -->                                                            
-                	<a href="{{ .Permalink }}">
                             <div class="p-3">
                                 <a href="{{ .Permalink }}" class="h4 font-primary text-dark">{{ .Title }}</a>
                                 <p>{{ .Params.Categories }}</p>
