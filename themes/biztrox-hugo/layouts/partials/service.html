@@ -6,7 +6,7 @@
                 <h5 class="section-title-sm">밸러스트</h5>
                 <h2 class="section-title section-title-border">업무영역</h2>
             </div>
-            {{ range .Data.Pages }}
+            {{ range first 4 .Data.Pages }}
             {{ "<!-- service item -->" | safeHTML }}
             <div class="col-lg-4 col-sm-6 mb-5">
                 <div class="card text-center">
