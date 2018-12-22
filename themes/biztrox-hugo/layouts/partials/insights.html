@@ -9,8 +9,9 @@
             {{ "<!-- blog-item -->" | safeHTML }}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card">
+                    <a href="{{ .Permalink }}">
                     <div class="card-img-wrapper overlay-rounded-top">
-                        <a href="{{ .URL }}"><img class="card-img-top" src="{{ .Params.image | absURL }}" alt="blog-thumbnail"></a>
+                        <img class="card-img-top" src="{{ .Params.image | absURL }}" alt="blog-thumbnail">
                     </div>
                     <div class="card-body p-0">
                         <div class="d-flex">
@@ -24,6 +25,7 @@
                             </div>
                         </div>
                     </div>
+                    </a>
                 </article>
             </div>
             {{ end }}
