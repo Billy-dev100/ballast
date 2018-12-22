@@ -1,15 +1,7 @@
 <ul class="pa0">
-  {{ range Site.Params.tags }}
-   <a href="{{.Permalink}}">{{.Title}}</a></li>
-{{end}}
-</ul>
-
-
-<!--
+  {{ range .Params.tags }}
    <li class="list">
-     <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
-       {{- . -}}
-     </a>
+   <a href="{{.Permalink}}"  class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">{{.Title}}</a></li>
    </li>
+  {{ end }}
 </ul>
--->
