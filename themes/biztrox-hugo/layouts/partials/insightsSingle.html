@@ -11,8 +11,7 @@
 						<ul class="pa0">
 						  {{ range .Params.categories }}
 						   <li class="list">
-						     <a href="{{ .URL | absURL }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
-						     </a>
+						    <a href="{{ delimit (slice "/categories/" (urlize .) $.Site.Params.ugly) "" | relURL }}">Category: {{ . }}</a>
 						   </li>
 						  {{ end }}
 						</ul>
