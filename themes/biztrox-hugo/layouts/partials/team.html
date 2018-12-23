@@ -6,7 +6,7 @@
                {{ with .Site.Data.team.title }} <h2 class="mb-2">{{ . }}</h2> {{ end }}
                {{ with .Site.Data.team.content }} <p class="mb-5">{{ . | safeHTML }}</p> {{ end }}
             </div>
-            {{ range .Data.Pages }}
+            {{ range Site.Data.team }}
             {{ "<!-- team member -->" | safeHTML }}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <div class="card text-center">
