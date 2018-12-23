@@ -16,21 +16,6 @@
         	</p>
 			</div>
 
-            <div class="col-lg-4 offset-lg-1 col-md-5">
-               {{ with .Site.Data.contact.title }} <h2 class="section-title">{{ . }}</h2> {{ end }}
-                <ul class="pl-0">
-                    {{ range .Site.Data.contact.contactList }}
-                    {{ "<!-- contact items -->" | safeHTML }}
-                    <li class="d-flex mb-30">
-                        <i class="round-icon mr-3 {{ .icon }}"></i>
-                        <div class="align-self-center font-primary">
-                            <p>{{ .listItem1 }}</p>
-                            <p>{{ .listItem2 }}</p>
-                        </div>
-                    </li>
-                    {{ end }}
-                </ul>
-            </div>
             {{ "<!-- form -->" | safeHTML }}
             <div class="col-lg-6 col-md-7">
                 <div class="p-5 rounded box-shadow">
@@ -66,6 +51,22 @@
                         </div>
                     </form>
                 </div>
+
+            <div class="col-lg-4 offset-lg-1 col-md-5">
+               {{ with .Site.Data.contact.title }} <h2 class="section-title">{{ . }}</h2> {{ end }}
+                <ul class="pl-0">
+                    {{ range .Site.Data.contact.contactList }}
+                    {{ "<!-- contact items -->" | safeHTML }}
+                    <li class="d-flex mb-30">
+                        <i class="round-icon mr-3 {{ .icon }}"></i>
+                        <div class="align-self-center font-primary">
+                            <p>{{ .listItem1 }}</p>
+                            <p>{{ .listItem2 }}</p>
+                        </div>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>                
             </div>
         </div>
     </div>
