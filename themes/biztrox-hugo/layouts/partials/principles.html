@@ -12,7 +12,7 @@
                    {{ with .Site.Data.about.principles.content }} <p class="text-white">{{ . }}</p> {{ end }}
 <!--                    <img src="{{ .Site.Data.howitworks.ceo.signature | absURL }}" alt="ceo-signature"> -->
                    {{ with .Site.Data.about.principles.name }} <h5 class="text-white">{{ . }}</h5> {{ end }}
-                   {{ with .Site.Data.about.principles.designation }} <h6 class="text-white">{{ . }}</h6> {{ end }}
+                   {{ with .Site.Data.about.principles.designation }} <h6 class="text-white">{{ . | safeHTML }}</h6> {{ end }}
                 </div>
             </div>
         </div>
