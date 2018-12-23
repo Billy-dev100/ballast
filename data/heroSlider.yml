@@ -2,7 +2,7 @@ enable : true
 sliderItem:
   - subHeading : 경쟁을 뛰어넘는
     heading : 독보적 마케팅
-    description : 밸러스트는 고객 이해, 전략, 데이터를 중심으로 10x 콘텐츠와 더 높은 마케팅 ROI를 냅니다. 
+    description : 콘텐츠 마케팅 에이전시<br>밸러스트아이앤씨는<br>마케팅의 고질적 문제들을 해결합니다.<br>마구잡이식 콘텐츠 제작.<br>무의미한 광고비 지출.<br>공허한 SNS / 퍼포먼스 마케팅.<br>밸러스트와 함께 문제를 극복하고,<br>경쟁을 초월하여 성장하세요.
 
     bgImage : images/banner/whale-bg.jpg
 #    dataIcon : ti-comments
