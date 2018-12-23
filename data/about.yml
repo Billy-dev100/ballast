@@ -18,6 +18,19 @@ principles :
   name : John Doe
   designation : CEO
 
+whatismarketing :
+  enable : true
+  titleSM : 마케팅의
+  title : Feedback Loop
+  content : 마케팅을 잘 한다는 것은 위의 세 가지를 꾸준히 반복하는 것입니다.(그래서 밸러스트의 콘텐츠는 다수의 마케팅 관련 키워드에서 검색엔진(구글) 오가닉 순위 1위를 차지하고, CTR 20%~30%를 기록합니다. 구글에서 “콘텐츠 마케팅”, “마케팅 예산”, “SNS 마케팅”, “브랜드 스토리”, “마케팅 스토리텔링”, “비디오 마케팅”, “신제품 마케팅”, “B2B 마케팅”, “B2C 마케팅”을 검색하고 검색결과를 확인해보세요.)
+  image : images/about/philosophy.jpg
+  btn :
+    enable : false
+    btnText : Explore More
+    btnURL : "#"
+
+
+
 funfacts : 
   enable : true
   bgImage : images/background/cta.jpg

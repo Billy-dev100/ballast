@@ -1,45 +1,45 @@
 enable : true
-heading : Pricing For You
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+heading : 밸러스트 프로세스
+content : 당신이 독보적인 마케팅을 하도록 돕기 위해, 밸러스트는 아래와 같은 프로세스로 일 합니다. 
 pricingItem : 
-  - title : Starter
+  - title : 생각
     icon : ti-gift
-    value : $25
-    validity : month
-    btnText : Buy Now
+    value : 고객이해를 바탕으로 한 전략
+    validity : 
+    btnText : 더 알아보기
     btnURL : '#'
     serviceList : 
-      - listItem : Business Services
-      - listItem : Social Madei Marketing
-      - listItem : 24/7 Professional Support
-      - listItem : Online Consultancy
-      - listItem : Seminar & Symphoseum
-      - listItem : Limited Features
+      - listItem : 구매여정 
+      - listItem : 구매자 페르소나 인터뷰
+      - listItem : 경쟁지형 파악
+      - listItem : 콘텐츠 마케팅 플레이북
+      - listItem : 편집일정표
+      - listItem : 
       
-  - title : Premium
+  - title : 실행
     icon : ti-key
-    value : $129
-    validity : month
-    btnText : Buy Now
+    value : 퍼포먼스를 내는 콘텐츠 제작과 배포 
+    validity : 
+    btnText : 더 알아보기
     btnURL : '#'
     serviceList : 
-      - listItem : Business Services
-      - listItem : Social Madei Marketing
-      - listItem : 24/7 Professional Support
-      - listItem : Online Consultancy
-      - listItem : Seminar & Symphoseum
-      - listItem : Limited Features
+      - listItem : 아티클 콘텐츠
+      - listItem : 소셜미디어 콘텐츠(그래픽, 영상) 
+      - listItem : 구글/네이버 SEO 및 키워드 광고집행
+      - listItem : 소셜미디어 관리
+      - listItem : 소셜미디어 광고집행
+      - listItem : 콘텐츠 카피라이팅
       
-  - title : Platinum
+  - title : 성찰
     icon : ti-medall
-    value : $229
-    validity : month
-    btnText : Buy Now
+    value : 측정과 최적화 
+    validity : 
+    btnText : 더 알아보기
     btnURL : '#'
     serviceList : 
-      - listItem : Business Services
-      - listItem : Social Madei Marketing
-      - listItem : 24/7 Professional Support
-      - listItem : Online Consultancy
-      - listItem : Seminar & Symphoseum
-      - listItem : Limited Features
+      - listItem : 마케팅 지표 설정
+      - listItem : 구글 태그매니저/애널리틱스 설치
+      - listItem : 웹/앱 데이터 분석
+      - listItem : 측정 보고서 최적화
+      - listItem : ROI 개선을 위한 인사이트 도출
+      - listItem : 인사이트-마케팅 활동 정렬
