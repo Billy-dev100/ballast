@@ -1,17 +1,17 @@
 enable : true
-titleSM : Our Goal
-title : Company Mission
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex ea commodo consequat.
+titleSM : 밸러스트의
+title : 프로세스
+description : 밸러스트아이앤씨는 당신이 독보적인 마케팅을 하도록 돕습니다. 우리는 어떤 에이전시보다도 고객이해와 경쟁지형에 대해 깊고 뛰어난 통찰을 제시합니다. 그리고 이를 바탕으로 독보적 콘텐츠, 독보적 마케팅이 가능한 기반을 마련하고 실행합니다. 우리는 끝없는 마케팅 이전투구에서 벗어나고 싶은 클라이언트들을 돕습니다.
 image : images/chart.png
 accordion :
   - ID : collapseOne
-    title : Our Company Mission
-    description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+    title : 생각. 심도 있는 고객이해를 바탕으로 전략을 세웁니다.
+    description : 고객의 구매여정과 생각을 리서치하고, 밸러스트의 통찰을 더해 구매자 페르소나를 완성합니다.
     
   - ID : collapseTwo
-    title : Our Company Mission
-    description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+    title : 실행. 전환을 일으키고 신뢰를 얻는 콘텐츠를 만들고 배포합니다.
+    description : 전략과 리서치를 기반으로 탄탄하고 독보적인 콘텐츠를 제작합니다. 콘텐츠를 확산하고 배포할 최적의 방법을 찾아 배포합니다.
     
   - ID : collapseThree
-    title : Our Company Mission
-    description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+    title : 성찰. 데이터 분석에 통찰을 더하고, 이를 바탕으로 최적화합니다. 
+    description : 측정과 최적화를 통해 결과를 끊임없이 개선합니다. 제대로 측정하고, 측정 결과를 생각에 반영하여 마케팅의 효율을 높입니다.
