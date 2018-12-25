@@ -75,7 +75,21 @@ home = "Home"
 #mapLatitude = "51.5223477"
 #mapLongitude = "-0.1622023"
 #mapMarker = "images/marker.png"
-baseURL = "/"
+
+# mailchimp subsciption
+mailchimpFormAction = "https://ballast.us15.list-manage.com/subscribe/post?u=68a9c6cf17df0257c09218ce9&amp;id=76cbcf900c" # replace this url with yours
+mailchimpFormName = "b_68a9c6cf17df0257c09218ce9_76cbcf900c" # replace this code with yours
+
+  # meta data
+  [[params.meta]]
+  name = "description"
+  content = "this it a content"
+  
+  [[params.meta]]
+  name = "keywords"
+  content = "this it a content"
+
+
 
     # Quote Button
     [params.quoteBtn]
