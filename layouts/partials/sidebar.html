@@ -16,7 +16,7 @@
             {{- end }}
             {{- end }}
         </div>
-
+<!--
         {{ "<!-- Widget Recent Post -->" | safeHTML }}
         <div class="mb-50">
             <h4 class="mb-3">Recent News</h4>
@@ -50,10 +50,11 @@
             {{- end }}
             {{- end }}
         </div>
-        
+-->        
         {{ "<!-- Widget Newsletter -->" | safeHTML }}
         <div class="newsletter">
-            <h4 class="mb-3">Stay Updated</h4>
+            <h4 class="mb-3">뉴스레터 구독</h4>
+            <p>2주마다 올라오는 밸러스트의 마케팅 인사이트를 이메일로 구독하세요.</p>
             <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
             <style type="text/css">
                 #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -78,7 +79,7 @@
                     <div class="response" id="mce-success-response" style="display:none"></div>
                 </div>
                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="{{ .Site.Params.mailchimpFormNmae }}" tabindex="-1" value=""></div>
-                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                <div class="clear"><input type="submit" value="구독하기" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
                 </div>
             </form>
             </div>
