@@ -3,7 +3,7 @@
     <div class="py-100 border-bottom" style="border-color: #454547 !important">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-4">
+                <div class="col-lg-6 col-md-4">
                     <div class="mb-5 mb-md-0 text-center text-md-left">
                         {{ "<!-- logo -->" | safeHTML }}
                         <img class="mb-30" src="{{ .Site.Params.footer.logo | absURL }}" alt="logo">
@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 {{ "<!-- footer links -->" | safeHTML }}
-                <div class="col-lg-1 col-md-4 col-6">
+                <div class="col-lg-0 col-md-4 col-6">
                    {{ with .Site.Params.footer.services}} <h4 class="text-white mb-4">{{ . }}</h4>{{ end }}
                     <ul class="footer-links">
                         {{ range .Site.Params.footer.service}}
@@ -32,7 +32,7 @@
                     </ul>
                 </div>
                 {{ "<!-- footer links -->" | safeHTML }}
-                <div class="col-lg-1 col-md-4 col-6">
+                <div class="col-lg-0 col-md-4 col-6">
                     {{ with .Site.Params.footer.quickLink}} <h4 class="text-white mb-4">{{ . }}</h4>{{ end }}
                     <ul class="footer-links">
                         {{ range .Site.Params.footer.quickLinks}}
