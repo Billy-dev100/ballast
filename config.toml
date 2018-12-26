@@ -32,6 +32,12 @@ home = ["HTML", "RSS", "Algolia"]
     name = "Service"
     URL = "/service"
     weight = 3
+    hasChildren = true
+    	
+    	[[menu.nav]]
+    	parent = "Service"
+    	name = "aaa"
+    	url = "/aaa" 
     
     [[menu.nav]]
     name = "Insights"
