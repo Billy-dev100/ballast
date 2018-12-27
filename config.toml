@@ -29,15 +29,31 @@ home = ["HTML", "RSS", "Algolia"]
     weight = 4
     
     [[menu.nav]]
-    name = "Service"
+    name = "What We Do"
     URL = "/service"
     weight = 3
     hasChildren = true
     	
     	[[menu.nav]]
-    	parent = "Service"
-    	name = "aaa"
+    	parent = "What We Do"
+    	name = "마케팅 전략"
     	url = "/aaa" 
+
+    	[[menu.nav]]
+    	parent = "What We Do"
+    	name = "콘텐츠 마케팅 풀서비스"
+    	url = "/aaa" 
+
+    	[[menu.nav]]
+    	parent = "What We Do"
+    	name = "콘텐츠 제작"
+    	url = "/aaa" 
+
+    	[[menu.nav]]
+    	parent = "What We Do"
+    	name = "퍼포먼스마케팅/그로스해킹"
+    	url = "/aaa" 
+
     
     [[menu.nav]]
     name = "Insights"
