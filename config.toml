@@ -37,22 +37,27 @@ home = ["HTML", "RSS", "Algolia"]
     	[[menu.nav]]
     	parent = "What We Do"
     	name = "마케팅 전략"
-    	url = "/aaa" 
+    	url = "/service/market-strategy.1/" 
 
     	[[menu.nav]]
     	parent = "What We Do"
     	name = "콘텐츠 마케팅 풀서비스"
-    	url = "/aaa" 
+    	url = "/service/content-marketing" 
 
     	[[menu.nav]]
     	parent = "What We Do"
     	name = "콘텐츠 제작"
-    	url = "/aaa" 
+    	url = "/service/content-creation" 
 
     	[[menu.nav]]
     	parent = "What We Do"
     	name = "퍼포먼스마케팅/그로스해킹"
-    	url = "/aaa" 
+    	url = "/service/performance-marketing" 
+
+    	[[menu.nav]]
+    	parent = "What We Do"
+    	name = "퍼포먼스마케팅/그로스해킹"
+    	url = "/service/b2b-marketing" 
 
     
     [[menu.nav]]
