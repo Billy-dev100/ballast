@@ -5,7 +5,7 @@ theme = "biztrox-hugo"
 summaryLength = "100"
 relativeURLs = "true"
 hasCJKLanguage = "true"
-
+Paginate
 
 [outputFormats.Algolia]
 baseName = "algolia"
