@@ -5,14 +5,14 @@
         <div class="row">
             {{ "<!-- philosophy image -->" | safeHTML }}
             <div class="col-lg-5 align-self-center order-2 order-lg-1 mb-md-50">
-                <img class="img-fluid w-100" src="{{ .Site.Data.howitworks.philosophy.image | absURL }}" alt="philosophy-image">
+                <img class="img-fluid w-100" src="{{ .Site.Data.howitworks.process.image | absURL }}" alt="philosophy-image">
             </div>
 
             <div class="col-lg-7 order-1 order-lg-2">
-               {{ with .Site.Data.howitworks.philosophy.titleSM }} <h5 class="section-title-sm">{{ . }}</h5> {{ end }}
-               {{ with .Site.Data.howitworks.philosophy.title }} <h2 class="section-title section-title-border-half">{{ . }}</h2> {{ end }}
-               {{ with .Site.Data.howitworks.philosophy.content }} <p>{{ . | safeHTML }}</p> {{ end }}
-               {{ if .Site.Data.howitworks.philosophy.btn.enable }} <a href="{{ .Site.Data.howitworks.philosophy.btn.btnURL | absURL }}" class="btn btn-primary">{{ with .Site.Data.howitworks.philosophy.btn.btnText }} {{ . }} {{ end }}</a> {{ end }}
+               {{ with .Site.Data.howitworks.process.titleSM }} <h5 class="section-title-sm">{{ . }}</h5> {{ end }}
+               {{ with .Site.Data.howitworks.process.title }} <h2 class="section-title section-title-border-half">{{ . }}</h2> {{ end }}
+               {{ with .Site.Data.howitworks.process.content }} <p>{{ . | safeHTML }}</p> {{ end }}
+               {{ if .Site.Data.howitworks.philosophy.btn.enable }} <a href="{{ .Site.Data.howitworks.process.btn.btnURL | absURL }}" class="btn btn-primary">{{ with .Site.Data.howitworks.philosophy.btn.btnText }} {{ . }} {{ end }}</a> {{ end }}
             </div>
         </div>
     </div>
