@@ -11,10 +11,10 @@ philosophy :
 
 principles :
   enable : true
-  bgImage : images/about/ceo.jpg
+  bgImage : images/about/principles.jpg
   title : Principles
   content : 1 자율. 구성원의 동기, 판단, 실행방식을 믿고 지지합니다. 규제/관리/지시하지 않습니다. <br><br> 2 총체성. 구성원이 업무를 통해 총체적 자아를 찾고 실현하도록 최선을 다 합니다. <br><br> 3 목적성. 우리의 일을 통해 고객과 세상에 이로운 가치를 만들어냅니다. <br><br> 4 진화. 우리는 살아있는 조직입니다. 기존의 틀에 안주하지 않고 끊임없이 진화합니다. 
-  signature : images/about/principles.jpg
+  signature : 
 #  name : John Doe
 #  designation : CEO
 
