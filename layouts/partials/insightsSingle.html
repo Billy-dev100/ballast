@@ -35,10 +35,8 @@
                             </div>
                         </div>
                         {{ "<!-- tags -->" | safeHTML }}
-            <ul class="list-inline tag-list">
-                <li class="list-inline-item"><a href="{{ "tags/" | relLangURL }}">{{ .Params.tags }}
-</a></li>
-            </ul>
+{{ .Params.Tags }}
+	<li><a href ="{{ .Permalink }}"> {{ . }} </a></li>
                         
                         </div>
                     </div>
