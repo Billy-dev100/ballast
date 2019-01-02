@@ -93,8 +93,8 @@ category = "categories"
 
 [params]
 logo = "images/logo.png"
-#mail = "contact@ballast.co.kr"
-#mobile = "0269710615"
+mail = "contact@ballast.co.kr"
+mobile = "0269710615"
 searchIcon = "ti-search"
 home = "Home"
 # google map
@@ -297,9 +297,9 @@ mailchimpFormName = "b_68a9c6cf17df0257c09218ce9_76cbcf900c" # replace this code
 #            name = "Sitemap"
 #            URL = "#"
             
-        [[params.footer.links]]
-            name = "개인정보 보호정책"
-            URL = "#"
+#        [[params.footer.links]]
+#            name = "개인정보 보호정책"
+#            URL = "#"
             
 #        [[params.footer.links]]
 #            name = "Terms & Conditions"
