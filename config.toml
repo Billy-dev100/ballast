@@ -232,7 +232,7 @@ mailchimpFormName = "b_68a9c6cf17df0257c09218ce9_76cbcf900c" # replace this code
         # social icon
         [[params.footer.socialIcon]]
         icon = "ti-facebook"
-        URL = "www.facebook.com/ballast.co.kr"
+        URL = "https://www.facebook.com/ballast.co.kr"
 
         [[params.footer.socialIcon]]
         icon = "ti-twitter-alt"
