@@ -306,13 +306,13 @@ mailchimpFormName = "b_68a9c6cf17df0257c09218ce9_76cbcf900c" # replace this code
 #            URL = "#"
 
     # share blog post
-#    [[params.sharePost]]
-#    icon = "ti-facebook"
-#    URL = "#"
+    [[params.sharePost]]
+    icon = "ti-facebook"
+    URL = "#"
     
-#    [[params.sharePost]]
-#    icon = "ti-twitter-alt"
-#    URL = "#"
+    [[params.sharePost]]
+    icon = "ti-twitter-alt"
+    URL = "#"
     
 #    [[params.sharePost]]
 #    icon = "ti-linkedin"
