@@ -93,7 +93,7 @@ category = "categories"
 
 [params]
 logo = "images/logo.png"
-mail = "contact@ballast.co.kr"
+#mail = "contact@ballast.co.kr"
 mobile = "0269710615"
 searchIcon = "ti-search"
 home = "Home"
