@@ -308,7 +308,7 @@ mailchimpFormName = "b_68a9c6cf17df0257c09218ce9_76cbcf900c" # replace this code
     # share blog post
     [[params.sharePost]]
     icon = "ti-facebook"
-    URL = ""https://www.facebook.com/sharer.php?u={{ .Permalink }}""
+    URL = "https://www.facebook.com/sharer.php?u={{ .Permalink }}"
     
     [[params.sharePost]]
     icon = "ti-twitter-alt"
