@@ -47,20 +47,28 @@
                     <div class="mt-5 mt-lg-0 text-center text-md-left">
                             {{ with .Site.Params.footer.subscribe}} <h4 class="mb-4 text-white">{{ . }}</h4> {{ end }}
                             {{ with .Site.Params.footer.subscribeContent}} <p class="text-white mb-4">{{ . }}</p> {{ end }}
-                        <form action="https://ballast.us15.list-manage.com/subscribe/post?u=68a9c6cf17df0257c09218ce9&amp;id=76cbcf900c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate position-relative" target="_blank" novalidate >
+            <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+                        <form action="{{ .Site.Params.mailchimpFormAction }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate position-relative" target="_blank" novalidate >
                             <input type="text" class="form-control subscribe" name="subscribe" id="Subscribe"
                                 placeholder="이메일주소를 입력해주세요">
                             <button class="btn-subscribe" type="submit" value="send">
                                 <i class="ti-arrow-right"></i>
                             </button>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-
+                <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="{{ .Site.Params.mailchimpFormNmae }}" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                </div>
                         </form>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
 
     {{ "<!-- copyright -->" | safeHTML }}
     <div class="pt-4 pb-3 position-relative">
