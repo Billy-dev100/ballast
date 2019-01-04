@@ -63,9 +63,3 @@ type : service
 목적지에 가려면 지도(요즘은 내비)가 필요하듯, 마케팅을 위해서는 실행계획이 필요합니다. 매 주, 매 달 소재와 채널 고민을 하면 안 됩니다. 단기와 중장기 계획을 완벽하게 세우고, 이에 맞춰 일사불란하게 움직여야 합니다.
 
 
-#### Marketing Improvement Strategy
-
-![Chart](../../images/service/service-chart.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
-

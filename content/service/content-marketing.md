@@ -57,9 +57,3 @@ type : service
 3. 데이터 없이는 한 발짝도 움직이지 않는다.
 4. 장기적인 비전으로, 지속적으로 개선한다.
 
-#### Marketing Improvement Strategy
-
-![Chart](../../images/service/service-chart.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
-
