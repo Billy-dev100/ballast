@@ -16,27 +16,7 @@ mediaType = "application/json"
 notAlternative = true
 
 [outputs]
-home = ["HTML", "RSS", "REDIR", "HEADERS", "Algolia"]
-section = [ "HTML", "RSS"]
-
-
-[mediaTypes]
-[mediaTypes."text/netlify"]
-delimiter = ""
-
-
-[outputFormats]
-[outputFormats.REDIR]
-mediatype = "text/netlify"
-baseName = "_redirects"
-isPlainText = true
-notAlternative = true
-
-[outputFormats.HEADERS]
-mediatype = "text/netlify"
-baseName = "_headers"
-isPlainText = true
-notAlternative = true
+home = ["HTML", "RSS", "Algolia"]
 
 [params.algolia]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
