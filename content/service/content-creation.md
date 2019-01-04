@@ -30,13 +30,18 @@ type : service
 7. 소셜미디어 콘텐츠
 
 ### Work 
-<br>
+
+##### 영상 
 {{< youtube hWX5A5VwT9o >}}
 <br>
 {{< youtube ZC9MdPnthaA >}}
 <br>
 {{< youtube xNswA6DgLbo >}}
 <br>
+<br>
+
+##### 소셜미디어
+
 ![소셜미디어](../../images/service/social_content_ballast.jpg)
 
 
