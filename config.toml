@@ -14,12 +14,31 @@ isPlainText = true
 mediaType = "application/json"
 notAlternative = true
 
+[outputs]
+home = ["HTML", "RSS", "REDIR", "HEADER" "Algolia"]
+
+
+[mediaTypes]
+[mediaTypes."text/netlify"]
+delimiter = ""
+
+
+
+[outputFormats.REDIR]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+[outputFormats.HEADERS]
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true
+
 [params.algolia]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"]
 
-[outputs]
-home = ["HTML", "RSS", "Algolia"]
 
 # navigation
 [menu]
