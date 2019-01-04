@@ -30,7 +30,7 @@ type : service
 
 ### Work 
 
-{{ youtube hWX5A5VwT9o }}
+{{< youtube hWX5A5VwT9o >}}
 
 ![Chart](../../images/service/service-chart.jpg)
 
