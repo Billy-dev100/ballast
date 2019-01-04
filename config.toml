@@ -57,7 +57,7 @@ home = ["HTML", "RSS", "Algolia"]
     	[[menu.nav]]
     	parent = "What We Do"
     	name = "퍼포먼스마케팅/그로스해킹"
-    	url = "/service/b2b-marketing" 
+    	url = "/service/performance-marketing" 
 
     
     [[menu.nav]]
