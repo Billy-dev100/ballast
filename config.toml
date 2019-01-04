@@ -7,6 +7,7 @@ relativeURLs = "true"
 enableRobotsTXT = "true"
 hasCJKLanguage = "true"
 Paginate = 10
+disableAliases = "true"
 
 [outputFormats.Algolia]
 baseName = "algolia"
