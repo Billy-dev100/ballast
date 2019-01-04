@@ -1,7 +1,7 @@
 ---
 title: "마케팅 전략/고객 리서치"
 date: 2018-09-29T11:54:02+06:00
-image: images/service/service-5.jpg
+image: images/service/service-strategy.jpg
 bgImage: 
 icon: ti-server
 brochureURL: '#'

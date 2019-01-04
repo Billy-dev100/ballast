@@ -1,8 +1,8 @@
 ---
 title: "퍼포먼스 마케팅/그로스 해킹"
 date: 2018-09-29T11:51:17+06:00
-image: images/service/service-2.jpg
-bgImage: images/background/page-title.jpg
+image: images/service/service-measure.jpg
+bgImage: 
 icon: ti-thought
 brochureURL: '#'
 regularDay: Sun-Tues

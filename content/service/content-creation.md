@@ -1,8 +1,8 @@
 ---
 title: "콘텐츠 제작"
 date: 2018-09-29T11:51:17+06:00
-image: images/service/service-6.jpg
-bgImage: images/background/page-title.jpg
+image: images/service/service-creation.jpg
+bgImage:
 icon: ti-thought
 brochureURL: '#'
 regularDay: Sun-Tues
