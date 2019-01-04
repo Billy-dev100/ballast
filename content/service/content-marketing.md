@@ -1,7 +1,7 @@
 ---
 title: "콘텐츠 마케팅 풀 서비스"
 date: 2018-09-29T11:54:02+06:00
-image: 
+image: images/service/service-3.jpg
 bgImage: 
 icon: ti-server
 brochureURL: '#'
