@@ -7,7 +7,7 @@ pricingItem :
     value : 고객이해를 바탕으로 한 전략
     validity : 
     btnText : 더 알아보기
-    btnURL : '#'
+    btnURL : '/service/market-strategy.1/'
     serviceList : 
       - listItem : 구매여정 조사
       - listItem : 구매자 페르소나 인터뷰
@@ -21,7 +21,7 @@ pricingItem :
     value : 퍼포먼스를 내는 콘텐츠 제작과 배포 
     validity : 
     btnText : 더 알아보기
-    btnURL : '#'
+    btnURL : '/service/content-creation/'
     serviceList : 
       - listItem : 아티클 콘텐츠
       - listItem : 소셜미디어 콘텐츠(그래픽, 영상) 
@@ -35,7 +35,7 @@ pricingItem :
     value : 데이터 분석, KPI 설정, 측정과 최적화 
     validity : 
     btnText : 더 알아보기
-    btnURL : '#'
+    btnURL : '/service/performance-marketing/'
     serviceList : 
       - listItem : 마케팅 지표 설정
       - listItem : 구글 태그매니저/애널리틱스 설치
