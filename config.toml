@@ -15,7 +15,7 @@ mediaType = "application/json"
 notAlternative = true
 
 [outputs]
-home = ["HTML", "RSS", "REDIR", "HEADER", "Algolia"]
+home = ["HTML", "RSS", "REDIR", "HEADERS", "Algolia"]
 
 
 [mediaTypes]
