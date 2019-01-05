@@ -10,7 +10,7 @@
                         <ul class="list-inline d-block pb-4 border-bottom mb-3">
                             <li class="list-inline-item text-color">Posted By {{ .Params.Author }}</li>
 <!--                            <li class="list-inline-item text-color">On {{ .PublishDate.Format "02 Jan" }}</li>  -->
-                            <li class="list-inline-item text-underline">Tag: {{ range.Params.Tags }}<a class="text-color" href="{{ "tags/" | absURL }}{{ . | lower }}">{{ . }}</a> {{ end }}</li>  
+                            <li class="list-inline-item text-color">Tag: {{ range.Params.Tags }}<a class="text-color" href="{{ "tags/" | absURL }}{{ . | lower }}">{{ . }}</a> {{ end }}</li>  
                         </ul>
                         <div class="post-content">
                             {{ .Content }}
