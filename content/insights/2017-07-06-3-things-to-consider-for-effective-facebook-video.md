@@ -7,9 +7,9 @@ image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content
 categories:
   - Marketing Notes
 tags:
-  - SNS 마케팅
+  - SNS마케팅
   - 페이스북
-  - 페이스북 마케팅
+  - 페이스북마케팅
 
 ---
 

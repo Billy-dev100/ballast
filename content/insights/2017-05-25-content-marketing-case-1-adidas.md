@@ -10,7 +10,7 @@ image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content
 categories:
 - Case Study
 tags:
-- Gameplan A
+- GameplanA
 - 아이다스
 
 ---

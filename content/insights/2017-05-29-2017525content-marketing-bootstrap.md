@@ -12,8 +12,8 @@ slide_template:
 categories:
 - Marketing Notes
 tags:
-- SEO(검색엔진 최적화)
-- SNS 마케팅
+- SEO
+- SNS마케팅
 - 소셜미디어
 - 콘텐츠 마케팅 프로세스
 - 콜투액션(CTA)

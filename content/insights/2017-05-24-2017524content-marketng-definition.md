@@ -11,7 +11,7 @@ slide_template:
 categories:
   - Marketing Notes
 tags:
-  - 콘텐츠 마케팅이란
+  - 콘텐츠마케팅-정의
 
 ---
 
