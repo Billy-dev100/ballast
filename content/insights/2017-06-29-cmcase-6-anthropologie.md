@@ -13,7 +13,7 @@ tags:
   - 콘텐츠 정렬
 
 ---
-  <a href="https://www.ballast.co.kr/wp-content/uploads/2017/06/case6-anthropologie.pdf" target="_blank" rel="noopener">콘텐츠마케팅사례6-앤트로폴로지 PDF 다운로드받기</a>
+  <a href=/files/case6-anthropologie.pdf" target="_blank" rel="noopener">콘텐츠마케팅사례6-앤트로폴로지 PDF 다운로드받기</a>
 
 ## 앤트로폴로지 개요
 앤트로폴로지는 우리나라에도 잘 알려져 있는 여성 패션 브랜드입니다. 앤트로폴로지는 어반 아웃피터의 창업자인 딕 헤인이 설립하였는데, 그 계기는 친구의 고민이었습니다. 그의 친구는(여성입니다) 도시에서 미국 교외로 이사하게 되면서 쇼핑의 선택지가 많이 줄었습니다. 어반 아웃피터와 같은 의류매장은 도시에만 몰려 있었기 때문입니다. 더 큰 문제는, 30대가 넘어가면서 어반 아웃피터를 입기가 어색해집니다.

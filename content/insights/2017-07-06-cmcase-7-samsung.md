@@ -46,4 +46,4 @@ tags:
 
 [case7 &#8211; samsunginsights][1]
 
- [1]: https://ballast.co.kr/wp-content/uploads/2017/07/case7-samsunginsights.pdf
+ [1]: /files/case7-samsunginsights.pdf
