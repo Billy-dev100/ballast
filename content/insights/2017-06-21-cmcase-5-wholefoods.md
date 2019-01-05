@@ -9,9 +9,9 @@ image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content
 categories:
   - Case Study
 tags:
-  - SNS 마케팅
-  - 기업 PR
-  - 기업 위기관리
+  - SNS마케팅
+  - 기업PR
+  - 기업위기관리
   - 홀푸드
 
 ---

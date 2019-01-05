@@ -10,7 +10,7 @@ categories:
   - Case Study
 tags:
   - 앤트로폴로지
-  - 콘텐츠 정렬
+  - 콘텐츠정렬
 
 ---
   <a href=/files/case6-anthropologie.pdf" target="_blank" rel="noopener">콘텐츠마케팅사례6-앤트로폴로지 PDF 다운로드받기</a>
