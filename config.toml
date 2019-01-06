@@ -44,8 +44,8 @@ params = ["categories", "tags"]
 [menu]
     
     [[menu.nav]]
-    name = "About"
-    URL = "/about"
+    name = "Who We Are"
+    URL = "/aboutus"
     weight = 4
     
     [[menu.nav]]
