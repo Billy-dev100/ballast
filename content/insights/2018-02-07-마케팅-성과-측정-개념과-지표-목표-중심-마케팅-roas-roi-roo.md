@@ -3,6 +3,7 @@ title: '마케팅 성과 측정 개념과 지표 + 목표 중심 마케팅 : ROA
 author: 김민영
 date: 2018-02-07 03:42:22 +0000
 url: "/insights/마케팅-성과-측정-개념과-지표-목표-중심-마케팅-roas-roi-roo/"
+description: ""
 image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2018/02/07122454/ROI.png
 categories:
 - 측정과 최적화
