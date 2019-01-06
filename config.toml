@@ -57,27 +57,22 @@ params = ["categories", "tags"]
     	[[menu.nav]]
     	parent = "What We Do"
     	name = "마케팅 전략"
-    	url = "/service/market-strategy.1/" 
+    	url = "/what-we-do/market-strategy.1/" 
 
     	[[menu.nav]]
     	parent = "What We Do"
     	name = "콘텐츠 마케팅 풀서비스"
-    	url = "/service/content-marketing" 
+    	url = "/what-we-do/content-marketing" 
 
     	[[menu.nav]]
     	parent = "What We Do"
     	name = "콘텐츠 제작"
-    	url = "/service/content-creation" 
+    	url = "/what-we-do/content-creation" 
 
     	[[menu.nav]]
     	parent = "What We Do"
     	name = "퍼포먼스마케팅/그로스해킹"
-    	url = "/service/performance-marketing" 
-
-    	[[menu.nav]]
-    	parent = "What We Do"
-    	name = "퍼포먼스마케팅/그로스해킹"
-    	url = "/service/performance-marketing" 
+    	url = "/what-we-do/performance-marketing" 
 
     
     [[menu.nav]]
