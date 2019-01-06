@@ -50,7 +50,7 @@ params = ["categories", "tags"]
     
     [[menu.nav]]
     name = "What We Do"
-    URL = "/service"
+    URL = "/what-we-do"
     weight = 3
     hasChildren = true
     	
