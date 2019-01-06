@@ -82,7 +82,7 @@ params = ["categories", "tags"]
     
     [[menu.nav]]
     name = "How It Works"
-    URL = "/howitworks"
+    URL = "/how-it-works"
     weight = 2
 #    
 #    [[menu.nav]]
