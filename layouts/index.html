@@ -20,11 +20,12 @@
                 <article class="card">
                 	<a href="{{ .Permalink }}">                
                     <div class="card-img-wrapper overlay-rounded-top">
-                        <img class="card-img-top" src="{{ .Params.image | absURL }}" alt="blog-thumbnail" width="350px" height="250px">
+                        <img class="card-img-top" src="{{ .Params.image | absURL }}" alt="blog-thumbnail" max-height="350px">
                     </div>
                 	</a>
                     
                     <div class="card-body p-0">
+						<div class="d-flex">
 <!--                            <div class="py-3 px-4 border-right text-center">
                                 <h3 class="text-primary mb-0">{{ .PublishDate.Format "02" }}</h3>
                                 <p class="mb-0">{{ .PublishDate.Format "Jan" }}</p> 
@@ -35,6 +36,7 @@
                                 <p>{{ .Params.Categories }}</p>
                                 <p>by {{ .Params.Author }}</p>
                             </div>
+						</div>
                     </div>
                     
                 </article>
