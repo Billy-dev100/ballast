@@ -10,7 +10,7 @@ sliderItem:
     btn : 
       enable : true
       btnText: 어떻게 가능한가요?
-      btnURL : '/howitworks'
+      btnURL : '/how-it-works'
 #      
 #  - subHeading : Get your
 #    heading : Business Consultant
