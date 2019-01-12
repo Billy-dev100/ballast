@@ -1425,6 +1425,10 @@ button {
   border-radius: 5px 5px 0 0;
 }
 
+.img-responsive {
+  margin: 0 auto;
+}
+
 /* 13. about section */
 .about {
   background-position: top center;
