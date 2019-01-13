@@ -112,6 +112,7 @@ logo = "images/logo.png"
 mobile = "0269710615"
 searchIcon = "ti-search"
 home = "Home"
+description = "description"
 # google map
 #gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-#m0gnUBkjmhoQyNyd7nllA"
 #mapLatitude = "51.5223477"
