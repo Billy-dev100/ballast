@@ -125,11 +125,11 @@ mailchimpFormName = "b_68a9c6cf17df0257c09218ce9_76cbcf900c" # replace this code
   # meta data
   [[params.meta]]
   name = "description"
-  content = "this it a content"
+  content = "content"
   
   [[params.meta]]
   name = "keywords"
-  content = "this it a content"
+  content = "content"
 
 
 

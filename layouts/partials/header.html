@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}ko-KR{{ end }}">
 
 <head>
     <meta charset="utf-8">
     <title>{{ .Site.Title }}</title>
-
+	
 
     {{ "<!-- mobile responsive meta -->" | safeHTML }}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     {{ range .Site.Params.meta }}
-    <meta name="{{ .name }}" content="{{ .content }}">
+    <meta name="desctiption" content="{{ .description }}">
     {{ end }}
     {{ .Hugo.Generator }}
 
