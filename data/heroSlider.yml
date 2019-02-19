@@ -9,7 +9,7 @@ sliderItem:
 #    dataText : Consultation
     btn : 
       enable : true
-      btnText: 어떻게 가능한가요?
+      btnText: Here's How
       btnURL : '/how-it-works'
 #      
 #  - subHeading : Get your
