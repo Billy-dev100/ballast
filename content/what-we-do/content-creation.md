@@ -34,7 +34,7 @@ type : service
 ##### 영상 
 {{< youtube hWX5A5VwT9o >}}
 <br>
-{{< youtube ZC9MdPnthaA >}}
+{{< youtube DX7pbuwKxPo >}}
 <br>
 {{< youtube xNswA6DgLbo >}}
 <br>
