@@ -2,7 +2,7 @@ enable : true
 sliderItem:
   - subHeading : 경쟁을 뛰어넘는
     heading : 독보적 마케팅
-    description : 성장을 위한 마케팅 활동을<br>계획하고 실행합니다. 
+    description : 기업과 조직의 성장을 위한<br>마케팅 활동을<br>계획하고 실행합니다. 
     bgImage : images/banner/banner-2019.jpg
 #    dataIcon : ti-comments
 #    dataText : Consultation
