@@ -124,8 +124,8 @@ img {
 
 .btn-outline {
   background: #10b285;
-  color: #222;
-  border: 2px solid #303032;
+  color: #fff;
+  border: 0px solid #303032;
 }
 
 .btn-outline:hover {
