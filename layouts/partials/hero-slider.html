@@ -8,7 +8,7 @@
             data-text="{{ .dataText }}">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-6">
                         <div class="hero-content">
                             <h4 class="text-uppercase mb-1" data-duration-in=".5" data-animation-in="fadeInLeft"
                                 data-delay-in=".1">{{ .subHeading }}</h4>
@@ -22,6 +22,9 @@
                             {{ end }}
                         </div>
                     </div>
+                    	<div class="offset-lg-1 col-lg-4 text-center text-lg-left">
+				<img src="{{ .bgImage | absURL }}" class="flex">
+						</div>
                 </div>
             </div>
         </div>
