@@ -121,7 +121,7 @@ category = "categories"
 
 
 [params]
-logo = "images/ballast.svg"
+logo = "images/ballast.png"
 #mail = "contact@ballast.co.kr"
 #mobile = "0269710615"
 searchIcon = "ti-search"
