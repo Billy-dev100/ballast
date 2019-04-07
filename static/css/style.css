@@ -1050,7 +1050,7 @@ button {
 
 .hero-slider-item {
   background-repeat: no-repeat;
-  background-position: center right;
+  background-position: right left;
   background-size: cover;  
   outline: 0;
 }
