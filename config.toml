@@ -74,6 +74,18 @@ params = ["categories", "tags"]
     	name = "퍼포먼스마케팅/그로스해킹"
     	url = "/what-we-do/performance-marketing" 
 
+    	[[menu.nav]]
+    	parent = "What We Do"
+    	name = "B2B 마케팅"
+    	url = "/what-we-do/b2b-marketing" 
+
+    	[[menu.nav]]
+    	parent = "What We Do"
+    	name = "마케팅 시스템구축"
+    	url = "/what-we-do/marketing-flywheel" 
+
+
+
     
     [[menu.nav]]
     name = "Insights"
