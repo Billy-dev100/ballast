@@ -78,11 +78,13 @@ params = ["categories", "tags"]
     	parent = "What We Do"
     	name = "B2B 마케팅"
     	url = "/what-we-do/b2b-marketing" 
+    	weight = 6
 
     	[[menu.nav]]
     	parent = "What We Do"
     	name = "마케팅 시스템구축"
     	url = "/what-we-do/marketing-flywheel" 
+    	weight = 5
 
 
 
