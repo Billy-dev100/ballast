@@ -60,7 +60,7 @@
             {{ range $index, $element:= where .Data.Pages "Type" "service" }}
             {{ if lt $index 4 }}
             {{ "<!-- service item -->" | safeHTML }}
-            <div class="col-lg-6 col-sm-6 mb-5">
+            <div class="col-lg-3 col-sm-6 mb-5">
                 <div class="card text-center">
                     <h4 class="card-title pt-3">{{ .Title }}</h4>
                     <div class="card-img-wrapper">
