@@ -1,8 +1,7 @@
 ---
 title: "B2B 마케팅"
 date: 2018-09-25T15:51:35+06:00
-image: images/service/service-4.jpg
-bgImage: images/background/page-title.jpg
+image: images/service/b2b-marketing.jpg
 icon: ti-bar-chart
 brochureURL: '#'
 regularDay: Sun-Tues
@@ -27,7 +26,5 @@ B2B 콘텐츠 마케팅을 제대로 하면 마케팅과 영업의 시너지가 
 5. 측정과 최적화
 
 #### B2B 프로세스
-
-![Chart](../../images/service/service-chart.jpg)
 
 밸러스트의 B2B 마케팅 클라이언트들은 시장을 확장하고, 핵심성과지표가 몇 배 증가했습니다. 그리고 일반적으로 수 천에서 수 만 %의 ROI를 달성합니다.    

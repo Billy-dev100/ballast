@@ -1,7 +1,7 @@
 ---
 title: "마케팅 시스템 구축"
 date: 2018-09-25T15:51:35+06:00
-image: images/service/service-1.jpg
+image: images/service/flywheel.jpg
 icon: ti-bar-chart
 brochureURL: '#'
 regularDay: Sun-Tues
@@ -24,8 +24,6 @@ type : service
 3. 데이터 측정 툴과 측정/최적화 프로세스
 
 #### 밸러스트가 하는 일
-
-![Chart](../../images/service/service-chart.jpg)
 
 마케팅의 선순환 구조를 만들기 위해 필요한 작업의 모든 과정을, 클라이언트의 필요에 맞춰 함께 합니다. 
 세부 작업의 예를 들면 UX, 웹사이트 제작, 이메일 마케팅 시스템 구축, 콘텐츠 플레이북 구축, 사내 애널리틱스 도입과 실행 등 입니다. 
