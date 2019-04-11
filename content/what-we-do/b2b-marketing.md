@@ -1,7 +1,7 @@
 ---
 title: "B2B 마케팅"
 date: 2018-09-25T15:51:35+06:00
-image: images/service/b2b-marketing.jpg
+image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11223228/service-b2b.jpg
 icon: ti-bar-chart
 brochureURL: '#'
 regularDay: Sun-Tues

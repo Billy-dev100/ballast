@@ -1,7 +1,7 @@
 ---
 title: "콘텐츠 제작"
 date: 2018-09-29T11:51:17+06:00
-image: images/service/service-creation.jpg
+image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11223227/service-contentcreation.jpg
 bgImage:
 icon: ti-thought
 brochureURL: '#'
