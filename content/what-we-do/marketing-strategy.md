@@ -3,7 +3,7 @@ title: "마케팅 전략/고객 리서치"
 date: 2018-09-29T11:54:02+06:00
 image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11223227/service-marketingstrategy.jpg
 bgImage: 
-icon: ti-server
+icon: ti-direction
 brochureURL: '#'
 regularDay: Sun-Tues
 regularTime: 08.00am - 06.00pm

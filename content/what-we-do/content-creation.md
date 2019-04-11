@@ -3,7 +3,7 @@ title: "콘텐츠 제작"
 date: 2018-09-29T11:51:17+06:00
 image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11223227/service-contentcreation.jpg
 bgImage:
-icon: ti-thought
+icon: ti-video-camera
 brochureURL: '#'
 regularDay: Sun-Tues
 regularTime: 08.00am - 06.00pm
@@ -13,7 +13,7 @@ offDay: Friday
 type : service
 ---
 
-### 마케팅 목표/채널/고객에 맞는 최적의 퀄리티 콘텐츠 
+### 마케팅 목표/채널/고객에 맞는 최적의 퀄리티 콘텐츠.  
 밸러스트는 스토리텔러입니다. 클라이언트가 오디언스에게 원하는 행동을 이끌어내도록 상상력과 창의력을 동원한 콘텐츠를 만듭니다. <!--more-->
 밸러스트는 체계적, 통합적으로 최고의 콘텐츠를 만들어 마케팅 자산을 축적해드립니다. 마케팅 효과가 가장 큰 채널에서 예산에 맞는 최적의 콘텐츠를 제작합니다. 형태는 아티클, 영상, 그래픽 디자인, 인포그래픽, 이벤트 등 모든 분야를 아우릅니다.
 

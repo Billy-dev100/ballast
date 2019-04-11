@@ -2,7 +2,7 @@
 title: "마케팅 시스템 구축"
 date: 2018-09-25T15:51:35+06:00
 image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11223228/service-flywheel.jpg
-icon: ti-bar-chart
+icon: ti-server
 brochureURL: '#'
 regularDay: Sun-Tues
 regularTime: 08.00am - 06.00pm
