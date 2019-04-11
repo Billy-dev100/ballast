@@ -3,7 +3,7 @@ heading : 밸러스트 업무영역
 content :  우리는 프로세스에 따라 다음과 같은 일을 합니다.
 pricingItem : 
   - title : 생각
-    icon : ti-gift
+    icon : ti-wand
     value : 고객이해를 바탕으로 한 전략
     validity : 
     btnText : 더 알아보기
@@ -17,7 +17,7 @@ pricingItem :
       - listItem : 편집일정표
       
   - title : 실행
-    icon : ti-key
+    icon : ti-pencil
     value : 퍼포먼스를 내는 콘텐츠 제작과 배포 
     validity : 
     btnText : 더 알아보기
@@ -31,7 +31,7 @@ pricingItem :
       - listItem : 콘텐츠 카피라이팅
       
   - title : 성찰
-    icon : ti-medall
+    icon : ti-loop
     value : 데이터 분석, KPI 설정, 측정과 최적화 
     validity : 
     btnText : 더 알아보기
