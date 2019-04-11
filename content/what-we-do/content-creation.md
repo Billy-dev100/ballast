@@ -42,7 +42,7 @@ type : service
 
 ##### 소셜미디어
 
-![소셜미디어](../../images/service/social_content_ballast.jpg)
+![소셜미디어](https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11225107/social_content_ballast.jpg)
 
 
 ---

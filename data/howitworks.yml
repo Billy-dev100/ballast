@@ -3,7 +3,7 @@ philosophy :
   titleSM : 쳇바퀴 도는
   title : 마케팅의 문제
   content : 흔히들 마케팅이라고 생각하는 활동은 표면에 머무릅니다. 퍼포먼스 마케팅, SNS, 그로스 해킹도 탄탄한 근본에서 시작하면, ROI가 월등하고 오랫동안 잘 할 수 있습니다. 물론 이렇게 근본부터 쌓아올리는 마케팅은 지름길이 없고, 난이도와 차원이 높아서 어렵습니다. 밸러스트아이앤씨는 당신이 독보적인 마케팅을 하도록 돕습니다. 우리는 어떤 에이전시보다도 고객이해와 경쟁지형에 대해 깊고 뛰어난 통찰을 제시합니다. 그리고 이를 바탕으로 독보적 콘텐츠, 독보적 마케팅이 가능한 기반을 마련하고 실행합니다. 우리는 끝없는 마케팅 이전투구에서 벗어나고 싶은 클라이언트들을 돕습니다.
-  image : images/how-it-works/marketing-sub.png
+  image : https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11225412/marketing-sub.png
   btn :
     enable : false
     btnText : Explore More
@@ -14,11 +14,11 @@ process :
     titleSM : 밸러스트아이앤씨의
     title : 프로세스
     content : 밸러스트는 독보적인 마케팅을 위한 프로세스를 철저히 지킵니다. 이 프로세스를 통해 고객과 오디언스를 모으고 지키는 마케팅이 가능합니다. 고객을 이해하고 최적의 마케팅 방식을 찾기 위한 생각. 이 생각을 현실로 만드는 실행력. 실행한 내용을 정확하게 측정하고 데이터화하는 능력. 측정한 데이터를 다시 생각에 반영하는 힘. 밸러스트의 마케팅은 이 모든 것을 결합했을 때 최고의 성과를 냅니다. 단순하고 쉬워보이지만, 국내 대다수의 마케팅 에이전시들이 쉽게 하지 못하는 일입니다.
-    image: images/how-it-works/processcycle.jpg
+    image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11225413/processcycle.jpg
 
 ceo :
   enable : true
-  bgImage : images/how-it-works/ballast-process.jpg
+  bgImage : 
   title : 밸러스트의 방식
   content : 마케팅을 잘 한다는 것은 수준 높은 생각-실행-측정-최적화를 꾸준히, 여러 차원에서 반복하는 것입니다. 우리는 마케팅의 가장 깊고 가장 앞선 곳에서, 믿음과 세계관을 공유하는 클라이언트에게 우리의 관점을 제시하고 경험을 공유합니다. 밸러스트가 존재하는 이유이며, 가장 부가가치를 높이는 일입니다. 밸러스트가 마케팅 에이전시 업무에서 가장 중요하게 생각하는 것은 클라이언트의 비전, 관점, 태도입니다. 우리는 장기적인 비전이나 고객을 위한 철학이 없는 회사와는 일하지 않습니다. 밸러스트는 훌륭하고 독보적인 클라이언트가 마케팅을 좀 더 쉽고 원활히 하도록, 장기적으로는 비용을 훨씬 줄이도록 돕습니다. 
 #  signature : images/how-it-works/ballast-process.png
