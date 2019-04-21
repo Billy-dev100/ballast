@@ -5,13 +5,15 @@
     <meta charset="utf-8">
     <title>{{ .Site.Title }}</title>
 
-
     {{ "<!-- mobile responsive meta -->" | safeHTML }}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+<!--
     {{ range .Site.Params.meta }}
     <meta name="{{ .name }}" content="{{ .content }}">
     {{ end }}
+    -->
     {{ .Hugo.Generator }}
 
 
