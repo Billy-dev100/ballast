@@ -16,6 +16,17 @@
     -->
     {{ .Hugo.Generator }}
 
+<!-- Start of Open Graph -->
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:description" content="{{ .Description }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ if .Params.image }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
+    {{ end }}
+<!-- End of Open Graph -->
+
+
 
     {{ "<!-- Bootstrap -->" | safeHTML }}
     <link rel="stylesheet" href="{{ "plugins/bootstrap/bootstrap.min.css" | absURL }} ">
@@ -36,9 +47,6 @@
     {{ "<!--Favicon-->" | safeHTML }}
     <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }} " type="image/x-icon">
     <link rel="icon" href="{{ "images/favicon.png" | absURL }} " type="image/x-icon">
-
-	{{- template "_internal/opengraph.html" . }}
-
 
 </head>
 
