@@ -126,7 +126,7 @@ logo = "images/ballast.svg"
 #mobile = "0269710615"
 searchIcon = "ti-search"
 home = "Home"
-description = "description"
+description = "경쟁을 뛰어넘는 독보적 마케팅. 기업과 조직의 성장을 위한 마케팅 활동을 계획하고 실행합니다."
 # google map
 #gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-#m0gnUBkjmhoQyNyd7nllA"
 #mapLatitude = "51.5223477"
@@ -142,12 +142,6 @@ mailchimpFormName = "b_68a9c6cf17df0257c09218ce9_76cbcf900c" # replace this code
   name = "description"
   content = "content"
   
-  [[params.meta]]
-  name = "keywords"
-  content = "content"
-
-
-
     # Quote Button
     [params.quoteBtn]
     enable = true
