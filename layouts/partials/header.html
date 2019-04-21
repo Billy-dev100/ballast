@@ -18,12 +18,19 @@
 
 <!-- Start of Open Graph -->
     <meta property="og:title" content="{{ .Title }}">
+    {{ if .IsPage }}
+    <meta property="og:type" content="article">
+    {{ else }}
+    <meta property="og:type" content="website">
+    {{ end }}
     <meta property="og:description" content="{{ .Description }}">
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
-    {{ if .Params.image }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
+    {{ if .Params.thumbnail }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
     {{ end }}
+    {{ range .Params.tags }}
+    <meta property="og:tags" content="{{ . }}">
 <!-- End of Open Graph -->
 
 
@@ -51,7 +58,6 @@
 </head>
 
 <body>
-
 
     {{ "<!-- preloader start -->" | safeHTML }}
     <div class="preloader">

@@ -127,6 +127,7 @@ logo = "images/ballast.svg"
 searchIcon = "ti-search"
 home = "Home"
 description = "디지털 콘텐츠 마케팅 에이전시. 기업과 조직의 성장을 위한 마케팅 활동을 계획하고 실행합니다."
+image="https://s3.ap-northeast-2.amazonaws.com/ballast-website-images/banner-2019.svg"
 # google map
 #gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-#m0gnUBkjmhoQyNyd7nllA"
 #mapLatitude = "51.5223477"
