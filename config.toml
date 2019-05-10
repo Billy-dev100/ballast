@@ -1,7 +1,7 @@
 baseURL = "https://www.ballast.co.kr/"
 languageCode = "ko-kr"
 title = "Ballast I&C | 콘텐츠 마케팅 에이전시 밸러스트아이앤씨"
-theme = "biztrox-hugo"
+theme = "bexar-hugo"
 summaryLength = "100"
 relativeURLs = "true"
 enableRobotsTXT = "true"
