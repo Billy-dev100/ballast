@@ -2,7 +2,7 @@
 title: '콘텐츠 마케팅 사례 #6 앤트로폴로지'
 author: 김민영
 date: 2017-06-28T16:55:56+00:00
-type: insights
+type: post
 excerpt: '<p>창의적이고 개성있는 30-40대 여성 패션/라이프스타일 브랜드 앤트로폴로지.&nbsp;앤트로폴로지의 콘텐츠 허브인 블로그는&nbsp;회사의 목적, 목표, 마케팅 방식과 콘텐츠의 정렬(align)을 잘 한다는 것이 무엇인지 확연히 드러나는 콘텐츠 마케팅 사례입니다. &nbsp;</p>'
 url: /insights/cmcase-6-anthropologie/
 image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/06/15110132/case6-anthropologie.001.png.png

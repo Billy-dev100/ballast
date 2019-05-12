@@ -2,7 +2,7 @@
 title: 콘텐츠 마케팅 사례 “아디다스그룹 블로그 Gameplan A”
 author: 김민영
 date: 2017-05-24 21:00:19 +0000
-type: insights
+type: post
 excerpt: "<p>밸러스트아이앤씨에서 발행하는 콘텐츠 마케팅 사례 시리즈 첫 번째입니다.&nbsp;<br />콘텐츠 마케팅 시리즈 사례는 전
   세계 다양한 기업들의 콘텐츠 마케팅 사례를 통해 아이디어를 얻고, 콘텐츠 마케팅에 대해 더 잘 이해할 수 있도록 작성했습니다.</p>"
 url: "/insights/content-marketing-case-1-adidas/"

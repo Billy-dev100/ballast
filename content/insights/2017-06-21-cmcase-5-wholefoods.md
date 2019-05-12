@@ -2,7 +2,7 @@
 title: '콘텐츠 마케팅 사례 #5 홀푸드 블로그'
 author: 김민영
 date: 2017-06-21T13:00:00+00:00
-type: insights
+type: post
 excerpt: '<p>홀푸드는 모든 마케팅 채널에서 좋은 성과를 거두고 있어, 마케팅 사례로 많이 언급됩니다. 홀푸드의 마케팅 성과가 좋은 이유는 콘텐츠를 어디에 어떻게 활용할지&nbsp;잘 이해하고 이에 맞춰서 꾸준하게 고객에게 콘텐츠를 제공하기 때문입니다.&nbsp;</p>'
 url: /insights/cmcase-5-wholefoods/
 image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/06/15110122/Screen-Shot-2017-06-20-at-1.43.38-PM.png

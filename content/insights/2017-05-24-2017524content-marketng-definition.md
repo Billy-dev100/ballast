@@ -2,8 +2,7 @@
 title: 콘텐츠마케팅이란 무엇인가 – 6하원칙에 따른 정의
 author: 김민영
 date: 2017-05-24T05:17:53+00:00
-type: insights
-excerpt: '<p>밸러스트아이앤씨가 6하원칙에 따라 콘텐츠 마케팅에 대해 짧게 설명합니다.&nbsp;</p>'
+type: post
 url: /insights/2017524content-marketng-definition/
 image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/05/15110120/img-3.jpg
 slide_template:

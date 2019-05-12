@@ -2,7 +2,7 @@
 title: 소셜미디어 혁신, 콘텐츠마케팅으로 시작하기
 author: 조두영
 date: 2017-05-28 16:48:26 +0000
-type: insights
+type: post
 excerpt: "<p>소셜미디어 기획을 잘 하는 방법은 무엇일까요?&nbsp;&nbsp;</p><p>소셜 미디어 계획에&nbsp;콘텐츠마케팅 프로세스를
   적용한다면&nbsp;SNS 운영을 돋보이게 하게 되며,&nbsp;마케팅 효과도 좋아집니다.&nbsp;</p>"
 url: "/insights/2017525content-marketing-bootstrap/"
