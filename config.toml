@@ -1,12 +1,12 @@
-baseURL = "https://www.ballast.co.kr/"
+baseURL = "/"
 languageCode = "ko-kr"
 title = "Ballast I&C | 콘텐츠 마케팅 에이전시 밸러스트아이앤씨"
 theme = "biztrox-hugo"
 summaryLength = "100"
 relativeURLs = "true"
-enableRobotsTXT = "true"
+enableRobotsTXT = "false"
 hasCJKLanguage = "true"
-Paginate = 10
+Paginate = 6
 disableAliases = "true"
 
 [outputFormats.Algolia]
