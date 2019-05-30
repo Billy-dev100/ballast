@@ -2,7 +2,7 @@ enable : true
 sliderItem:
   - subHeading : 경쟁을 뛰어넘는
     heading : 독보적 마케팅
-    description : 기업과 조직의 성장을 위한<br>마케팅 활동을<br>계획하고 실행합니다. 
+    description : 콘텐츠 마케팅 에이전시 <br>밸러스트아이앤씨.<br>클라이언트의 성장과 지속을<br>함께 고민하고, 경험과 관점을 공유하며,<br>성과와 데이터를 중심으로 일합니다. 
     bgImage : https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/05/13211749/banner19.jpg
 #    dataIcon : ti-comments
 #    dataText : Consultation
