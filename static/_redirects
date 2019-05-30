@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://ballastkr.netlify.com/* https://www.ballast.co.kr/:splat 301!
