@@ -3,7 +3,7 @@ title: '콘텐츠 마케팅 사례 #5 홀푸드 블로그'
 author: 김민영
 date: 2017-06-21T13:00:00+00:00
 type: post
-excerpt: '<p>홀푸드는 모든 마케팅 채널에서 좋은 성과를 거두고 있어, 마케팅 사례로 많이 언급됩니다. 홀푸드의 마케팅 성과가 좋은 이유는 콘텐츠를 어디에 어떻게 활용할지&nbsp;잘 이해하고 이에 맞춰서 꾸준하게 고객에게 콘텐츠를 제공하기 때문입니다.&nbsp;</p>'
+description: 홀푸드는 모든 마케팅 채널에서 좋은 성과를 거두고 있어, 마케팅 사례로 많이 언급됩니다. 홀푸드의 마케팅 성과가 좋은 이유는 콘텐츠를 어디에 어떻게 활용할지&nbsp;잘 이해하고 이에 맞춰서 꾸준하게 고객에게 콘텐츠를 제공하기 때문입니다
 url: /insights/cmcase-5-wholefoods/
 image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/06/15110122/Screen-Shot-2017-06-20-at-1.43.38-PM.png
 categories:
@@ -16,13 +16,9 @@ tags:
 
 ---
 
-<div id="attachment_51679" style="width: 310px" class="wp-caption alignnone">
-  <a href="/files/case5-wholefoods.pdf" target="_blank" rel="noopener"><img class="wp-image-51679 size-medium" src="https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/06/15110122/Screen-Shot-2017-06-20-at-1.43.38-PM-300x212.png" alt="" width="300" height="212" srcset="https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/06/15110122/Screen-Shot-2017-06-20-at-1.43.38-PM-300x212.png 300w, https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/06/15110122/Screen-Shot-2017-06-20-at-1.43.38-PM-768x542.png 768w, https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/06/15110122/Screen-Shot-2017-06-20-at-1.43.38-PM-1024x722.png 1024w, https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/06/15110122/Screen-Shot-2017-06-20-at-1.43.38-PM.png 1446w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p class="wp-caption-text">
-    pdf 자료 다운로드 받기
-  </p>
-</div>
+[![홀푸드 콘텐츠마케팅 pdf](https://ballast.imgix.net/wp-content/uploads/2017/06/15110122/Screen-Shot-2017-06-20-at-1.43.38-PM-300x212.png?w=700)](/files/case5-wholefoods.pdf" target="_blank")
+
+pdf 자료 다운로드 받기
 
 ## 홀푸드 개요
 홀푸드는 미국의 유기농 식료품 체인으로, 건강과 환경에 관심이 많은 중산층에게 인기를 얻으며 성장했습니다. 며칠 전 아마존이 홀푸드를 137억달러(약 15조원)에 인수하여 화제가 되기도 했습니다. <a href="http://www.yonhapnews.co.kr/bulletin/2017/06/17/0200000000AKR20170617005600091.HTML" target="_blank" rel="noopener">(기사 링크)</a>
@@ -30,7 +26,7 @@ tags:
 ## 홀푸드의 콘텐츠 마케팅
 홀푸드는 모든 마케팅 채널에서 좋은 성과를 거두고 있어, 마케팅 사례로 많이 언급됩니다. 홀푸드의 마케팅 성과가 좋은 이유는 콘텐츠를 어디에 어떻게 활용할지 잘 이해하고 이에 맞춰서 꾸준하게 고객에게 콘텐츠를 제공하기 때문입니다.
 
-![홀푸드 콘텐츠 마케팅](https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/06/25081330/Screen-Shot-2018-03-25-at-8.10.47-AM.png)
+![홀푸드 콘텐츠 마케팅](https://ballast.imgix.net/wp-content/uploads/2017/06/25081330/Screen-Shot-2018-03-25-at-8.10.47-AM.png?w=700)
 [홀푸드 사이트 내 블로그 페이지(이미지를 클릭하면 해당 링크로 넘어갑니다](https://www.wholefoodsmarket.com/blog/whole-story)
 
 &nbsp;

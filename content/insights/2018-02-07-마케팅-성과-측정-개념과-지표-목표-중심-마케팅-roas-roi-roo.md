@@ -31,7 +31,7 @@ tags:
 
 ROAS 는 Return On Ad Spend 의 약자입니다. 우리말로는, 광고비 지출에 대한 수익입니다. 주의해야할 점은 여기에서 수익은 이윤이 아니라 매출이라는 점입니다. 따라서 ROAS는 단순히 특정 매체나 채널에 지출한 광고비를 통해 얼만큼 직접 매출이 생겼는지만을 알려줍니다.
 
-![](https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2018/02/07122456/ROAS-300x277.png)
+![](https://ballast.imgix.net/wp-content/uploads/2018/02/07122456/ROAS-300x277.png)
 
 
 ROAS의 개념도 – 마케팅과 사업에서 아주 작은 부분만을 표현합니다
@@ -84,7 +84,8 @@ ROAS와 ROI의 차이도 Spend 와 Investment 하나에서 관점이 완전히 �
 
 마케팅 조직에서 ROI를 다룰 때 대부분 프로젝트 기반으로 ROI를 측정합니다. 하지만 여기에 맹점이 있습니다. 좋은 재료만 잔뜩 넣었다고 음식이 맛있는 것은 아니고, 좋은 부품을 모아놓았다고 좋은 기계가 나오지는 않습니다. 사람들의 칭송을 받는 훌륭한 제품들은 대부분 원가가 비싸고 재료나 부품이 비싸기만 하지 않습니다. 용도에 맞고(문제해결), 작동 방식이 조화를 이루며(프로세스 최적화), 기쁨과 즐거움을 주기 때문입니다(UX, 부가가치). 마케팅도 마찬가지입니다. 개별 마케팅 활동의 ROI는 높지 않지만 전체적인 성과는 매우 큰 사례들이 많습니다. 물론 콘텐츠 마케팅도 이런 접근이 구체화된 것입니다.
 
-![](https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2018/02/07121324/alexander-andrews-449960-2.jpg)
+![](https://ballast.imgix.net/wp-content/uploads/2018/02/07121324/alexander-andrews-449960-2.jpg?w=700)
+
 세부 프로젝트의 ROI만을 믿으면 안 됩니다
  
 
