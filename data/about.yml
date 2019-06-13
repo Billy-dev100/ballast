@@ -3,7 +3,7 @@ philosophy :
   titleSM : About
   title : Ballast는
   content : 독보적 마케팅 프로세스와 실행으로 사업 성장을 돕는 콘텐츠 마케팅 에이전시입니다. 전략과 데이터 기반 콘텐츠 마케팅으로 클라이언트의 성장을 돕습니다. 지속가능한 콘텐츠 마케팅 플랫폼을 개발하고 클라이언트가 효과적인 마케팅 활동을 효율적으로 하도록 돕습니다. 클라이언트가 쉽게 적용할 수 있는 프로세스를 구축하고 브랜드 자산을 축적하여, 조직과 사업의 성장을 도모합니다. 우리가 가진 지식, 도구, 네트워크를 최대한 공유하고 최선을 다해 관점을 표현합니다.
-  image : https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11225328/about.jpg
+  image : https://ballast.imgix.net/wp-content/uploads/2019/04/11225328/about.jpg?auto=format,compress
   btn :
     enable : false
     btnText : Explore More
@@ -11,7 +11,7 @@ philosophy :
 
 principles :
   enable : true
-  bgImage : https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11225328/principles.jpg
+  bgImage : https://ballast.imgix.net/wp-content/uploads/2019/04/11225328/principles.jpg?auto=format,compress
   title : Principles
   content : 1 자율. 구성원의 동기, 판단, 실행방식을 믿고 지지합니다. 규제/관리/지시하지 않습니다. <br><br> 2 총체성. 구성원이 업무를 통해 총체적 자아를 찾고 실현하도록 최선을 다 합니다. <br><br> 3 목적성. 우리의 일을 통해 고객과 세상에 이로운 가치를 만들어냅니다. <br><br> 4 진화. 우리는 살아있는 조직입니다. 기존의 틀에 안주하지 않고 끊임없이 진화합니다. 
   signature : 
@@ -23,7 +23,7 @@ whatismarketing :
   titleSM : 마케팅의
   title : Feedback Loop
   content : 마케팅을 잘 한다는 것은 위의 세 가지를 꾸준히 반복하는 것입니다.(그래서 밸러스트의 콘텐츠는 다수의 마케팅 관련 키워드에서 검색엔진(구글) 오가닉 순위 1위를 차지하고, CTR 20%~30%를 기록합니다. 구글에서 “콘텐츠 마케팅”, “마케팅 예산”, “SNS 마케팅”, “브랜드 스토리”, “마케팅 스토리텔링”, “비디오 마케팅”, “신제품 마케팅”, “B2B 마케팅”, “B2C 마케팅”을 검색하고 검색결과를 확인해보세요.)
-  image : https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11225328/ctr.png
+  image : https://ballast.imgix.net/wp-content/uploads/2019/04/11225328/ctr.png?auto=format,compress
   btn :
     enable : false
     btnText : Explore More
