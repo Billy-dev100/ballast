@@ -1,7 +1,7 @@
 ---
 title: "콘텐츠 마케팅 풀 서비스"
 date: 2018-09-29T11:54:02+06:00
-image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11223227/service-contentmarketing.jpg
+image: https://ballast.imgix.net/wp-content/uploads/2019/04/11223227/service-contentmarketing.jpg?auto=compress,format
 bgImage: 
 icon: ti-gift
 brochureURL: '#'

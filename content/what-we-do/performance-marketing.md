@@ -1,7 +1,7 @@
 ---
 title: "퍼포먼스 마케팅/그로스 해킹"
 date: 2018-09-29T11:51:17+06:00
-image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2019/04/11223601/service-measure1.jpg
+image: https://ballast.imgix.net/wp-content/uploads/2019/04/11223601/service-measure1.jpg?auto=format,compress
 bgImage: 
 icon: ti-stats-up
 brochureURL: '#'
