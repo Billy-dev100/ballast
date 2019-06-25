@@ -5,7 +5,7 @@ date: 2017-07-05T16:14:39+00:00
 type: post
 excerpt: '삼성전자 인사이트는 뉴스, 주제, 산업별로 콘텐츠를 나눕니다. 뉴스는 삼성전자 소식이 아니라 IT 분야의 에디토리얼성 기사이며, 주제별로는 기업의 모바일화, 모바일 보안, 네트워킹, 컴퓨팅, 데이터 스토리지 등 삼성전자에서 생산하는 제품과 솔루션을 활용하여 생산성을 높이는 방법에 대해 다룹니다.&nbsp'
 url: /insights/cmcase-7-samsung/
-image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/08/15105950/img-2.png
+image: https://ballast.imgix.net/wp-content/uploads/2017/08/15105950/img-2.png?auto=compress,format
 categories:
   - Case Study
 tags:

@@ -4,7 +4,7 @@ author: 김민영
 type: post
 date: 2017-08-17T22:50:54+00:00
 url: /insights/콘텐츠-마케팅-사례-12-오라클-마케팅-클라우드journey-to-modern-marketing/
-image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/08/15105942/Screen-Shot-2017-08-18-at-7.48.12-AM.png
+image: https://ballast.imgix.net/wp-content/uploads/2017/08/15105942/Screen-Shot-2017-08-18-at-7.48.12-AM.png?auto=compress,format
 categories:
   - Case Study
 tags:

@@ -4,7 +4,7 @@ author: 김민영
 date: 2017-05-24T05:17:53+00:00
 type: post
 url: /insights/2017524content-marketng-definition/
-image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/05/15110120/img-3.jpg
+image: https://ballast.imgix.net/wp-content/uploads/2017/05/15110120/img-3.jpg?auto=compress,format
 slide_template:
   - default
 categories:

@@ -4,7 +4,7 @@ author: 김민영
 date: 2017-07-05T17:39:28+00:00
 type: post
 url: /insights/3-things-to-consider-for-effective-facebook-video/
-image: https://s3-ap-northeast-2.amazonaws.com/ballast-website-images/wp-content/uploads/2017/07/15110059/pexels-photo-267399.jpeg
+image: https://ballast.imgix.net/wp-content/uploads/2017/07/15110059/pexels-photo-267399.jpeg?auto=compress,format
 categories:
   - Marketing Notes
 tags:
