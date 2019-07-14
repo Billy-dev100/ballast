@@ -6,7 +6,7 @@
                 <h5 class="section-title-sm">밸러스트</h5>
                 <h2 class="section-title section-title-border">업무영역</h2>
                 <h3>진짜 고객이 만드는 트래픽. 더 많은 고객. 오래가는 마케팅 성과.</h3>
-                {{ with .Site.Data.service.content }} <p class="mb-40">{{ . | safeHTML }}</p> {{ end }}
+                {{ with .Site.Data.service.content }} <p>{{ . | safeHTML }}</p> {{ end }}
             </div>            
             
             {{ range first 6 .Data.Pages }}
